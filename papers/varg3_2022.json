@@ -1,422 +1,178 @@
 {
   "id": "varg3_2022",
-  "title": "MP TET Varg 3 — 2022",
-  "subtitle": "Official Paper",
-  "year": 2022,
-  "varg": 3,
-  "totalMarks": 150,
-  "durationMinutes": 180,
-  "sections": [
-    { "name": "Hindi Bhasha 01", "color": "#f472b6" },
-    { "name": "Mathematics",     "color": "#60a5fa" },
-    { "name": "Environmental Study", "color": "#34d399" },
-    { "name": "English Language 02", "color": "#fbbf24" },
-    { "name": "Child Development",   "color": "#a78bfa" }
-  ],
+    "title": "MP TET Varg 3 — 2022",
+    "subtitle": "Official Paper",
+    "year": 2022,
+    "varg": 3,
+    "totalQuestions": 30,
+    "totalMarks": 150,
+    "durationMinutes": 180,
+    "tags": ["Varg 3", "2022", "Official"],
   "passages": {
-    "GADY1": "निर्देश: नीचे दिए गए गद्यांश को पढ़कर पूछे गए प्रश्नों के सबसे उचित उत्तर वाले विकल्प का चयन कीजिए-\nआज हम इस असमंजस में पड़े हैं और यह निश्चय नहीं कर पाए हैं कि हम किस ओर चलेंगे और हमारा ध्येय क्या है? स्वभावतः ऐसी अवस्था में हमारे पैर लड़खड़ाते हैं। हमारे विचार में भारत के लिए और सारे संसार के लिए सुख और शान्ति का एक ही रास्ता है और वह है अहिंसा और आत्मवाद का। अपनी दुबलता के कारण हम उसे ग्रहण न कर सके, पर उसके सिद्धान्तों को तो हम स्वीकार कर ही लेना चाहिए और उसके वर्तन का इन्तेजार करना चाहिए। यदि हम सिद्धांत ही न मानेंगे तो उसके वर्तन की आशा कैसे की जा सकती है? जहाँ तक मैंने महात्मा गांधीजी के सिद्धान्त को समझा है, वह इसी आत्मवाद और अहिंसा के, जिसे वे सत्य भी कहा करते थे, मानने वाले और वर्तक थे।",
-    "KAVYA1": "निर्देश: काव्यांश को पढ़कर पूछे गए प्रश्नों के सबसे उचित उत्तर वाले विकल्प का चयन कीजिए-\nजब भी\nभूख से लड़ने\nकोई खड़ा हो जाता है\nसुंदर दीखने लगता है\nझटपता बाज,\nफन उठाए सांप\nदो पैरों पर खड़ी\nकांटों से नहीं पत्तियां खाती बकरी,\nदबे पांव झाड़ियों में चलता चीता,\nडाल पर उलटा लटक\nफल कुतरता तोता\nया इन सब की जगह\nआदमी होता।\nजब भी\nभूख से लड़ने\nकोई खड़ा हो जाता है\nसुंदर दीखने लगता है।",
-    "PETS": "Direction: Read the given poem and answer the question given below accordingly.\nI have a dog\nBut I don't have a hog\nMy dog's name is Missy\nWhen she's mad\nShe doesn't go hissy\nI have a cat\nBut not a bat\nMy cat's name is jinx\nBut he's not a lynx\nI had a fish\nWhen he died\nI didn't eat him on a dish\nMy fish's name was Freddy\nHe had two friends named\nEddy and Teddy\nI tried to make this rhyme\nWell, I did this time",
-    "SPACEX": "Read the passage given below and then answer the questions given below the passage.\nSpaceX's newest fleet of satellites is tumbling out of orbit after being struck by a solar storm. Up to 40 of the 49 small satellites launched last week have either re-entered the atmosphere and burned up, or are on the verge of doing so, the company said in an online update Tuesday night. SpaceX said a geomagnetic storm last Friday made the atmosphere denser, which increased the drag on the Starlink satellites, effectively dooming them. Ground controllers tried to save the compact, flat-panel satellites by putting them into a type of hibernation and flying them in a way to minimize drag. But the atmospheric pull was too great, and the satellites failed to awaken and climb to a higher, more stable orbit.\n\nThere is no danger from these newly falling satellites, either in orbit or on the ground, according to the company. Each satellite weighs less than 575 pounds (260 kilograms). SpaceX described the lost satellites as a 'unique situation.' Such geomagnetic storms are caused by intense solar activity like flares, which can send streams of plasma from the sun's corona hurtling out into space and toward Earth. Since launching the first Starlink satellites in 2019, Elon Musk envisions a constellation of thousands more satellites to increase internet service. Astronomers are distressed that these mega constellations will ruin night-time observations from Earth. The International Astronomical Union is forming a new centre for the protection of dark skies."
+    "GADYANSH_RASHTRIYA": "\"हम जब-जब असंगठित हुए, हमें आर्थिक व राजनीतिक रूप में इसकी कीमत चुकानी पड़ी। हमारे विचारों में जब-जब संकीर्णता आई, आपस में झगड़े हुए। हमने जब कभी नए विचारों से अपना मुख मोड़ा, हमें हानि ही हुई, हम विदेशी शासन के अधीन हो गए।\" ये बातें स्व. प्रधानमंत्री श्रीमती इंदिरा गाँधी ने अखिल भारतीय राष्ट्रीय एकता सम्मेलन के दौरान कही थीं। सचमुच राष्ट्रीय एकता सशक्त और समृद्ध राष्ट्र की आधारशिला होती है। राष्ट्रीय एकता का तात्पर्य है—राष्ट्र के विभिन्न घटकों में परस्पर एकता, प्रेम एवं भाईचारे का कायम रहना।\nभारत में कई धर्म एवं जातियों के लोग रहते हैं, जिनके रहन-सहन एवं आस्था में अंतर तो है ही, साथ ही उनकी भाषाएँ भी अलग-अलग हैं। इन सबके बावजूद पूरे भारतवर्ष के लोग भारतीयता की जिस भावना से ओत-प्रोत रहते हैं, उसे राष्ट्रीय एकता का विश्वभर में सर्वोत्तम उदाहरण कहा जा सकता है। रवींद्रनाथ 'टैगोर' ने कहा \"भारत की एकता तथा चेतना समय की कसौटी पर सही सिद्ध हुई है।\" आज देश की राष्ट्रीय एकता को सबसे बड़ा खतरा आतंकवाद से है। आज कश्मीर की समस्या आतंकवाद की ही देन है।",
+    "KAVYANSH_SUBHADRA": "किंतु अरे यह क्या,\nइतना आदर, इतनी करुणा, सम्मान?\nप्रथम दृष्टि में ही दे डाला\nतुमने मुझे अहो मतिमान!\nमैं अपने झीने आँचल में\nइस अपार करुणा का भार\nकैसे भला सँभाल सकूँगी\nउनका वह स्नेह अपार।\nलख महानता उनकी पल-पल\nदेख रही हूँ अपनी ओर\nमेरे लिए बहुत थी केवल\nउनकी तो करुणा की कोर।",
+    "ENGLISH_POEM_DREAM": "Direction: Read the given poem and answer accordingly.\nTake this kiss upon the brow!\nAnd, in parting from you now,\nThus much let me avow —\nYou are not wrong, who deem\nThat my days have been a dream;\nYet if hope has flown away\nIn a night, or in a day,\nIn a vision, or in none,\nIs it therefore the less gone?\nAll that we see or seem\nIs but a dream within a dream.\nI stand amid the roar\nOf a surf-tormented shore,\nAnd I hold within my hand\nGrains of the golden sand —\nHow few! yet how they creep\nThrough my fingers to the deep,\nWhile I weep — while I weep!\nO God! Can I not grasp\nThem with a tighter clasp?\nO God! can I not save\nOne from the pitiless wave?\nIs all that we see or seem\nBut a dream within a dream?",
+    "ENGLISH_KRISHNA_PASSAGE": "The Hindus celebrate Janmashtami for the birth of Sri Krishna. The festival usually occurs in August. Moreover, Lord Krishna is the most powerful incarnation of Lord Vishnu. It is a joyful festival for the Hindus. Janmashtami: Lord Krishna was born on the 8th day of Dark Fortnight in the month of Bhadon. He was born around 5,200 years ago. Lord Krishna was born to free the world from evil. He played an important role in the book of Mahabharata. Lord Krishna was born in a prison.\nHe was in the clutches of Kansa. But his father Vasudev gave him to his friend Nand to save him. Sri Krishna after some time became strong and was able to kill Kansa. First of all, Sri Krishna was very fond of eating Makhan. Therefore his name was 'Natkahat Nand Lal'. Sri Krishna was dark-coloured. Moreover, Sri Krishna had a friend named Radha. Radha was of great importance to Krishna. Radha was very beautiful and fair so Lord Krishna always felt colour complex."
   },
   "questions": [
-    {
-      "id": 1,
-      "section": "Hindi Bhasha 01",
-      "hi": "भाषा की कक्षा में समाचार-पत्रिकाओं का उपयोग यह सुनिश्चित करता है कि_________",
-      "en": "Use of newspapers in language class ensures that:",
-      "options": [
-        { "hi": "शिक्षण-सामग्री का उपयोग हो रहा है।", "en": "Teaching material is being used." },
-        { "hi": "बच्चों की भाषा पर समाचार-पत्रिकाओं का प्रभाव पड़े।", "en": "Newspapers influence children's language." },
-        { "hi": "बच्चों को मुख्य शीर्षक याद हैं।", "en": "Children remember main headlines." },
-        { "hi": "बच्चे प्रामाणिक लेख, समाचार आदि पर अपनी प्रतिक्रिया देने की क्षमता रखते हों।", "en": "Children can respond to authentic articles and news." }
-      ],
-      "answer": 3
-    },
-    {
-      "id": 2,
-      "section": "Hindi Bhasha 01",
-      "hi": "प्राइमरी कक्षाओं में पठन-शिक्षण का उद्देश्य इनमें से क्या नहीं है?",
-      "en": "Which is NOT an objective of reading-teaching in primary classes?",
-      "options": [
-        { "hi": "विद्यार्थी पाठ्य-पुस्तक अथवा उसके जोड़ की पाठ्य-सामग्री को शुद्ध उच्चारण के साथ पढ़ सकें", "en": "Students can read textbook with correct pronunciation" },
-        { "hi": "विद्यार्थी उपयुक्त गति से पढ़ सकें", "en": "Students can read at appropriate speed" },
-        { "hi": "प्रश्नों के उत्तर याद कर सकें", "en": "Can memorize answers to questions" },
-        { "hi": "विद्यार्थी अपने स्तर की पुस्तकों के अध्ययन से मनोरंजन प्राप्त कर सकें।", "en": "Students can enjoy reading books at their level." }
-      ],
-      "answer": 2
-    },
-    {
-      "id": 3,
-      "section": "Hindi Bhasha 01",
-      "hi": "निम्न में से संज्ञानात्मक संप्राप्ति का न्यूनतम स्तर क्या है?",
-      "en": "Which is the lowest level of cognitive domain?",
-      "options": [
-        { "hi": "अनुयोग", "en": "Application" },
-        { "hi": "बोध", "en": "Comprehension" },
-        { "hi": "विश्लेषण", "en": "Analysis" },
-        { "hi": "ज्ञान", "en": "Knowledge" }
-      ],
-      "answer": 3
-    },
-    {
-      "id": 4,
-      "section": "Hindi Bhasha 01",
-      "hi": "बहु-सांस्कृतिक पृष्ठभूमि वाली कक्षा में भाषा शिक्षक को क्या करना चाहिए?",
-      "en": "In a multicultural classroom, what should a language teacher do?",
-      "options": [
-        { "hi": "मौखिक कौशलों पर बल देना चाहिए", "en": "Emphasize oral skills" },
-        { "hi": "अभिव्यक्ति कौशल पर बल देना चाहिए", "en": "Emphasize expression skills" },
-        { "hi": "परस्पर बातचीत करने का अधिक से अधिक अवसर देना चाहिए", "en": "Give maximum opportunities for conversation" },
-        { "hi": "बच्चों को मानक भाषा-प्रयोग के लिए ही कहना चाहिए", "en": "Ask children to use only standard language" }
-      ],
-      "answer": 2
-    },
-    {
-      "id": 5,
-      "section": "Hindi Bhasha 01",
-      "hi": "भाषा-शिक्षण के लिए आवश्यक है कि",
-      "en": "For language teaching, it is essential that:",
-      "options": [
-        { "hi": "शिक्षक बहुत सारी भाषाएं जानता हो", "en": "Teacher knows many languages" },
-        { "hi": "भाषा का व्याकरण अच्छी तरह याद हो", "en": "Grammar is well memorized" },
-        { "hi": "अलग-अलग संदर्भ में भाषा प्रयोग के अवसर", "en": "Opportunities for language use in different contexts" },
-        { "hi": "शब्दार्थ के लिए शब्दकोश का प्रयोग", "en": "Use of dictionary for word meanings" }
-      ],
-      "answer": 2
-    },
-    {
-      "id": 6,
-      "section": "Hindi Bhasha 01",
-      "hi": "वाइगोत्स्की के अनुसार, सीखने को _____________ से पृथक नहीं किया जा सकता।",
-      "en": "According to Vygotsky, learning cannot be separated from:",
-      "options": [
-        { "hi": "उसके सामाजिक संदर्भ से", "en": "Its social context" },
-        { "hi": "पुनर्बलन से", "en": "Reinforcement" },
-        { "hi": "व्यवहार में मापने योग्य परिवर्तन से", "en": "Measurable change in behavior" },
-        { "hi": "अवबोधन क्रियाओं से", "en": "Perceptual processes" }
-      ],
-      "answer": 0
-    },
-    {
-      "id": 7,
-      "section": "Hindi Bhasha 01",
-      "passage": "GADY1",
-      "hi": "निम्नलिखित में से उपर्युक्त गद्यांश के लिए उचित शीर्षक का चयन कीजिए-",
-      "en": "Choose the appropriate title for the above passage:",
-      "options": [
-        { "hi": "श्रेय एवं प्रेय", "en": "Shreya and Preya" },
-        { "hi": "स्वभावतः असमंजस", "en": "Natural confusion" },
-        { "hi": "भौतिकवाद", "en": "Materialism" },
-        { "hi": "आत्मवाद", "en": "Spiritualism" }
-      ],
-      "answer": 0
-    },
-    {
-      "id": 8,
-      "section": "Hindi Bhasha 01",
-      "passage": "GADY1",
-      "hi": "उपर्युक्त गद्यांश के अनुसार हमारे पैर लड़खड़ाते हैं, क्योंकि हम _________ हैं।",
-      "en": "According to the passage, our feet stumble because we are:",
-      "options": [
-        { "hi": "लक्ष्यहीन", "en": "Aimless" },
-        { "hi": "दिशाहीन", "en": "Directionless" },
-        { "hi": "अहिंसावादी", "en": "Non-violent" },
-        { "hi": "लक्ष्यहीन और दिशाहीन", "en": "Aimless and directionless" }
-      ],
-      "answer": 3
-    },
-    {
-      "id": 9,
-      "section": "Hindi Bhasha 01",
-      "passage": "KAVYA1",
-      "hi": "उपर्युक्त कविता से क्या प्रेरणा मिलती है?",
-      "en": "What inspiration does the above poem give?",
-      "options": [
-        { "hi": "भूख शांत करने के लिए संघर्ष करने की प्रेरणा", "en": "Inspiration to struggle against hunger" },
-        { "hi": "भूख शांत करने के लिए चोरी करने की प्रेरणा", "en": "Inspiration to steal to satisfy hunger" },
-        { "hi": "मनुष्य को कभी भी भूखा नहीं रहना चाहिए, चाहे कुछ भी करना पड़े।", "en": "Man should never stay hungry, whatever it takes." },
-        { "hi": "अधिक समय तक भूख बर्दाश्त करना।", "en": "Tolerating hunger for a long time." }
-      ],
-      "answer": 0
-    },
-    {
-      "id": 10,
-      "section": "Hindi Bhasha 01",
-      "passage": "KAVYA1",
-      "hi": "उपर्युक्त पद्यांश का उचित शीर्षक बताइए-",
-      "en": "Give the appropriate title of the above poem:",
-      "options": [
-        { "hi": "सुन्दरता", "en": "Beauty" },
-        { "hi": "भूख और संघर्ष", "en": "Hunger and Struggle" },
-        { "hi": "नदियों का सौन्दर्य", "en": "Beauty of rivers" },
-        { "hi": "देश की वीरता", "en": "Bravery of the country" }
-      ],
-      "answer": 1
-    },
-    {
-      "id": 11,
-      "section": "Mathematics",
-      "hi": "एक तम्बू का आधार 150 सेमी परिधि का एक नियमित षट्भुज है। आधार की प्रत्येक भुजा की लंबाई कितनी है?",
-      "en": "Base of a tent is a regular hexagon of perimeter 150 cm. What is the length of each side?",
-      "options": [
-        { "hi": "20 सेमी", "en": "20 cm" },
-        { "hi": "15 सेमी", "en": "15 cm" },
-        { "hi": "25 सेमी", "en": "25 cm" },
-        { "hi": "17 सेमी", "en": "17 cm" }
-      ],
-      "answer": 2
-    },
-    {
-      "id": 12,
-      "section": "Mathematics",
-      "hi": "एक नियमित घनाभ में कितने शीर्ष होते हैं?",
-      "en": "How many vertices does a regular cuboid have?",
-      "options": [
-        { "hi": "6", "en": "6" },
-        { "hi": "12", "en": "12" },
-        { "hi": "8", "en": "8" },
-        { "hi": "4", "en": "4" }
-      ],
-      "answer": 2
-    },
-    {
-      "id": 13,
-      "section": "Mathematics",
-      "hi": "एनसीएफ 2005 के अनुसार, प्राथमिक स्तर पर गणित शिक्षण का संकीर्ण उद्देश्य क्या है?",
-      "en": "As per NCF 2005, which caters to the narrow aim of teaching mathematics at primary level?",
-      "options": [
-        { "hi": "संख्याओं और संक्रियाओं, मात्राओं का मापन", "en": "Numbers, operations, measurement" },
-        { "hi": "बच्चे की चिंतन प्रक्रिया का गणितीयकरण", "en": "Mathematise child's thought process" },
-        { "hi": "तार्किक चिंतन का विकास", "en": "Development of logical thinking" },
-        { "hi": "समस्या समाधान कौशल", "en": "Problem solving skills" }
-      ],
-      "answer": 0
-    },
-    {
-      "id": 14,
-      "section": "Mathematics",
-      "hi": "हेयुरिस्टिक ग्रीक शब्द से उत्पन्न हुआ है जिसका अर्थ है:",
-      "en": "Heuristic is derived from Greek word which means:",
-      "options": [
-        { "hi": "जानना", "en": "To know" },
-        { "hi": "योजना बनाना", "en": "To plan" },
-        { "hi": "खोज करना", "en": "To discover" },
-        { "hi": "सोचना", "en": "To think" }
-      ],
-      "answer": 2
-    },
-    {
-      "id": 15,
-      "section": "Mathematics",
-      "hi": "\"सभी गणितीय अवधारणाओं को ठोस वस्तुओं के माध्यम से नहीं सीखा जा सकता\" — यह गणित की किस विशेषता को दर्शाता है?",
-      "en": "'All mathematical concepts cannot be learned through concrete objects' — this points to which characteristic of mathematics?",
-      "options": [
-        { "hi": "सार्वभौमिकता", "en": "Universality" },
-        { "hi": "व्यावहारिक विज्ञान", "en": "Applied science" },
-        { "hi": "अमूर्तता", "en": "Abstractness" },
-        { "hi": "तार्किक विचार", "en": "Logical reasoning" }
-      ],
-      "answer": 2
-    },
-    {
-      "id": 16,
-      "section": "Environmental Study",
-      "hi": "ठहरे हुए पानी से कौन-सा रोग हो सकता है?",
-      "en": "The disease which can be caused by stagnant water:",
-      "options": [
-        { "hi": "पोलियो", "en": "Polio" },
-        { "hi": "चिकन पॉक्स", "en": "Chicken pox" },
-        { "hi": "निमोनिया", "en": "Pneumonia" },
-        { "hi": "मलेरिया", "en": "Malaria" }
-      ],
-      "answer": 3
-    },
-    {
-      "id": 17,
-      "section": "Environmental Study",
-      "hi": "ओजोन परत वायुमंडल की किस परत में पाई जाती है?",
-      "en": "Ozone layer is found in which layer of atmosphere?",
-      "options": [
-        { "hi": "समताप मंडल", "en": "Stratosphere" },
-        { "hi": "वायुमंडल", "en": "Atmosphere" },
-        { "hi": "मेसोस्फीयर", "en": "Mesosphere" },
-        { "hi": "बहिर्मंडल", "en": "Exosphere" }
-      ],
-      "answer": 0
-    },
-    {
-      "id": 18,
-      "section": "Environmental Study",
-      "hi": "वन, घास के मैदान और मरुस्थल, उदाहरण हैं:",
-      "en": "Forests, grasslands and deserts are examples of:",
-      "options": [
-        { "hi": "बायोम", "en": "Biome" },
-        { "hi": "मानव निर्मित पारिस्थितिकी तंत्र", "en": "Manmade ecosystem" },
-        { "hi": "जैव-भौगोलिक क्षेत्र", "en": "Biogeographical regions" },
-        { "hi": "कृत्रिम पारिस्थितिकी तंत्र", "en": "Artificial Ecosystems" }
-      ],
-      "answer": 0
-    },
-    {
-      "id": 19,
-      "section": "Environmental Study",
-      "hi": "PSLV को इसरो का 'वर्कहॉर्स' क्यों कहा जाता है?",
-      "en": "Why is PSLV known as the 'Workhorse of ISRO'?",
-      "options": [
-        { "hi": "क्योंकि यह सबसे बड़ा रॉकेट है", "en": "Because it is the largest rocket" },
-        { "hi": "क्योंकि यह सबसे अधिक उपयोग किया जाने वाला और विश्वसनीय लॉन्च वाहन है", "en": "Because it is the most used and reliable launch vehicle" },
-        { "hi": "क्योंकि यह सबसे तेज़ रॉकेट है", "en": "Because it is the fastest rocket" },
-        { "hi": "क्योंकि यह सबसे सस्ता है", "en": "Because it is the cheapest" }
-      ],
-      "answer": 1
-    },
-    {
-      "id": 20,
-      "section": "Environmental Study",
-      "hi": "इसरो के PSLV में कितने चरण हैं?",
-      "en": "How many stages are there in ISRO's PSLV?",
-      "options": [
-        { "hi": "3", "en": "3" },
-        { "hi": "4", "en": "4" },
-        { "hi": "5", "en": "5" },
-        { "hi": "2", "en": "2" }
-      ],
-      "answer": 1
-    },
-    {
-      "id": 21,
-      "section": "English Language 02",
-      "passage": "PETS",
-      "hi": "Q: Which of the following pairs contains rhyming?",
-      "en": "Which of the following pairs contains rhyming?",
-      "options": [
-        { "hi": "cat-bat", "en": "cat-bat" },
-        { "hi": "hog-mad", "en": "hog-mad" },
-        { "hi": "dog-cat", "en": "dog-cat" },
-        { "hi": "fish-lynx", "en": "fish-lynx" }
-      ],
-      "answer": 0
-    },
-    {
-      "id": 22,
-      "section": "English Language 02",
-      "passage": "PETS",
-      "hi": "Q: What happened to the speaker's fish?",
-      "en": "What happened to the speaker's fish?",
-      "options": [
-        { "hi": "the speaker's dog ate it", "en": "the speaker's dog ate it" },
-        { "hi": "the speaker herself ate it", "en": "the speaker herself ate it" },
-        { "hi": "the speaker's cat ate it", "en": "the speaker's cat ate it" },
-        { "hi": "the fish died but the speaker didn't eat it", "en": "the fish died but the speaker didn't eat it" }
-      ],
-      "answer": 3
-    },
-    {
-      "id": 23,
-      "section": "English Language 02",
-      "passage": "SPACEX",
-      "hi": "Q: How did SpaceX try to save the satellites?",
-      "en": "How did SpaceX try to save the satellites from destruction?",
-      "options": [
-        { "hi": "They switched off the power supply", "en": "They switched off the power supply" },
-        { "hi": "They took help from NASA", "en": "They took help from NASA" },
-        { "hi": "They used laser rays to deflect the storm", "en": "They used laser rays to deflect the storm" },
-        { "hi": "They tried to move the satellites into higher orbit", "en": "They tried to move the satellites into higher orbit" }
-      ],
-      "answer": 3
-    },
-    {
-      "id": 24,
-      "section": "English Language 02",
-      "passage": "SPACEX",
-      "hi": "Q: What is the cause of the destruction of satellites?",
-      "en": "What is the cause of the destruction of satellites?",
-      "options": [
-        { "hi": "Typhoon", "en": "Typhoon" },
-        { "hi": "Cyclone", "en": "Cyclone" },
-        { "hi": "Tsunami", "en": "Tsunami" },
-        { "hi": "Solar storm", "en": "Solar storm" }
-      ],
-      "answer": 3
-    },
-    {
-      "id": 25,
-      "section": "English Language 02",
-      "hi": "Story telling as a strategy in language teaching is aimed at:",
-      "en": "Story telling as a strategy in language teaching is aimed at:",
-      "options": [
-        { "hi": "engaging learners with language", "en": "engaging learners with language" },
-        { "hi": "learning to retell the story", "en": "learning to retell the story" },
-        { "hi": "testing the memory of learners", "en": "testing the memory of learners" },
-        { "hi": "learning the morals", "en": "learning the morals" }
-      ],
-      "answer": 0
-    },
-    {
-      "id": 26,
-      "section": "Child Development",
-      "hi": "बालक के विकास में कौन महत्वपूर्ण भूमिका निभाते हैं?",
-      "en": "Who plays an important role in development of child?",
-      "options": [
-        { "hi": "परिवार के सदस्य", "en": "Family members" },
-        { "hi": "रिश्तेदार", "en": "Relatives" },
-        { "hi": "माता-पिता", "en": "Mother-Father" },
-        { "hi": "मित्र", "en": "Friends" }
-      ],
-      "answer": 2
-    },
-    {
-      "id": 27,
-      "section": "Child Development",
-      "hi": "विकास का अर्थ है:",
-      "en": "Meaning of development is:",
-      "options": [
-        { "hi": "व्यवहार में परिवर्तन", "en": "Changes in behavior" },
-        { "hi": "कल्पना में परिवर्तन", "en": "Changes in imagination" },
-        { "hi": "आकार में परिवर्तन", "en": "Changes in size" },
-        { "hi": "भावना में परिवर्तन", "en": "Changes in emotions" }
-      ],
-      "answer": 0
-    },
-    {
-      "id": 28,
-      "section": "Child Development",
-      "hi": "बहु-बुद्धि का सिद्धान्त किसने दिया?",
-      "en": "Who gave the concept of multiple intelligence?",
-      "options": [
-        { "hi": "गार्डनर", "en": "Gardner" },
-        { "hi": "पियाजे", "en": "Piaget" },
-        { "hi": "गोलमैन", "en": "Goleman" },
-        { "hi": "जॉन मेयर", "en": "John Mayor" }
-      ],
-      "answer": 0
-    },
-    {
-      "id": 29,
-      "section": "Child Development",
-      "hi": "थर्स्टन ने कितनी प्राथमिक मानसिक योग्यताओं का सुझाव दिया था?",
-      "en": "How many primary mental abilities did Thurstone suggest?",
-      "options": [
-        { "hi": "5", "en": "5" },
-        { "hi": "6", "en": "6" },
-        { "hi": "7", "en": "7" },
-        { "hi": "8", "en": "8" }
-      ],
-      "answer": 2
-    },
-    {
-      "id": 30,
-      "section": "Child Development",
-      "hi": "एक बच्चे का सीखना ___________ से शुरू होता है:",
-      "en": "Learning of a child starts from:",
-      "options": [
-        { "hi": "विद्यालय", "en": "The school" },
-        { "hi": "समाज", "en": "The society" },
-        { "hi": "परिवार", "en": "The family" },
-        { "hi": "पड़ोस", "en": "The neighbourhood" }
-      ],
-      "answer": 2
-    }
+    # HINDI BHASHA 01 (Q1-30)
+    {"id":1,"section":"Hindi Bhasha 01","hi":"निम्न में से कौन-सा शिक्षण का सिद्धांत नहीं है?","en":"Which is NOT a principle of teaching?","options":[{"hi":"स्वाभाविकता का सिद्धांत","en":"Principle of naturalness"},{"hi":"मूर्त से अमूर्त की ओर","en":"From concrete to abstract"},{"hi":"निगमन से आगमन की ओर","en":"From deductive to inductive"},{"hi":"सरल से कठिन की ओर","en":"From simple to complex"}],"answer":2},
+    {"id":2,"section":"Hindi Bhasha 01","hi":"भाषा अर्जित करना _______","en":"Language acquisition is:","options":[{"hi":"कठिन होता है","en":"Difficult"},{"hi":"सहज स्वाभाविक होता है","en":"Natural and easy"},{"hi":"भाषा सीखने में बाधक होता है","en":"A hindrance to language learning"},{"hi":"समय की हानि होती है","en":"A waste of time"}],"answer":1},
+    {"id":3,"section":"Hindi Bhasha 01","hi":"निम्न में से उपचारात्मक शिक्षण की सफलता मुख्यतः किस पर निर्भर करती है?","en":"The success of remedial teaching mainly depends on:","options":[{"hi":"केवल बच्चों की समाज-सांस्कृतिक पृष्ठभूमि पर","en":"Socio-cultural background of children"},{"hi":"केवल बच्चों की भाषागत त्रुटियों की सूची बनाने पर","en":"Listing language errors of children"},{"hi":"केवल बच्चों की भोज्य व्यवस्था का ध्यान रख कर","en":"Keeping food arrangements of children"},{"hi":"समस्याओं के कारणों की सही पहचान पर","en":"Correct identification of problem causes"}],"answer":3},
+    {"id":4,"section":"Hindi Bhasha 01","hi":"कहानी-कथन के उद्देश्यों में कौन-सा पक्ष शामिल नहीं है?","en":"Which aspect is NOT included in the objectives of story-telling?","options":[{"hi":"शब्द भंडार का विकास","en":"Vocabulary development"},{"hi":"कल्पनाशीलता का विकास","en":"Development of imagination"},{"hi":"सृजनात्मकता का विकास","en":"Development of creativity"},{"hi":"भाषा के लिखित रूप से परिचय","en":"Introduction to written form of language"}],"answer":3},
+    {"id":5,"section":"Hindi Bhasha 01","hi":"मूल्यांकन का मुख्य उद्देश्य होता है यह जानना कि","en":"The main objective of evaluation is to know that:","options":[{"hi":"बच्चों ने कितने पाठ पढ़े हैं","en":"How many lessons children have read"},{"hi":"शिक्षक ने कितने पाठ पढ़ाए हैं","en":"How many lessons teacher has taught"},{"hi":"बच्चे कैसे सीखते हैं","en":"How children learn"},{"hi":"अगली कक्षा में उत्तर करना","en":"To promote to next class"}],"answer":2},
+    {"id":6,"section":"Hindi Bhasha 01","hi":"कविता को भावपूर्ण तरीके से पढ़ना ________","en":"Reading poetry with feeling:","options":[{"hi":"कविता शिक्षण का एक गौण उद्देश्य है","en":"Is a minor objective of poetry teaching"},{"hi":"कविता के भाव को समझने में सहायता करता है","en":"Helps understand the spirit of poetry"},{"hi":"बच्चों का मनोरंजन करता है","en":"Entertains children"},{"hi":"बच्चों को छंद, अलंकार की जानकारी देता है","en":"Gives knowledge of meter and figures"}],"answer":1},
+    {"id":7,"section":"Hindi Bhasha 01","hi":"लिखित कार्य की जाँच में बच्चों की सहायता लेने से","en":"Taking children's help in checking written work:","options":[{"hi":"केवल पठन कौशल का अभ्यास होता है।","en":"Only reading skill is practiced."},{"hi":"बच्चे ज़्यादा गलतियाँ ढूँढना सीख जाते हैं।","en":"Children learn to find more mistakes."},{"hi":"बच्चों को दूसरों की हस्तलिखित सामग्री को पढ़ने का अवसर और अवलोकन क्षमता के विकास का अवसर मिलता है।","en":"Children get opportunity to read others' written material and develop observation ability."},{"hi":"बच्चे दूसरों के विचारों से परिचित होते हैं।","en":"Children get acquainted with others' ideas."}],"answer":2},
+    {"id":8,"section":"Hindi Bhasha 01","hi":"लोकगीतों को भाषा की कक्षाओं में स्थान दिया जाना चाहिए क्योंकि","en":"Folk songs should be given place in language classes because:","options":[{"hi":"लोकगीतों को बढ़ावा देना भाषा-शिक्षण का मुख्य उद्देश्य है।","en":"Promoting folk songs is the main purpose."},{"hi":"लोकगीत गाए जा सकते हैं।","en":"Folk songs can be sung."},{"hi":"केवल लोकगीतों के माध्यम से पारंपरिक मूल्यों की शिक्षा दी जा सकती है।","en":"Traditional values can be taught only through folk songs."},{"hi":"इससे बच्चे सांस्कृतिक विशेषताओं से परिचित होते हैं।","en":"Children become familiar with cultural features."}],"answer":3},
+    {"id":9,"section":"Hindi Bhasha 01","hi":"पाठ-पढ़कर बच्चों से प्रश्न बनवाने से","en":"Making children form questions after reading a text:","options":[{"hi":"इस बात का पता चलता है कि बच्चे वाचक शब्दों से परिचित हैं या नहीं","en":"Reveals if children are familiar with reader words"},{"hi":"शिक्षक को यह जानने का अवसर मिलता है कि बच्चों ने पाठ को कितनी गहराई से समझा है।","en":"Teacher gets opportunity to know how deeply children understood the text."},{"hi":"कक्षा-कार्य की अच्छी भूमिका पूरी होती है","en":"Good role of class work is fulfilled"},{"hi":"प्रश्न बनाने की आदत का विकास होता है।","en":"Habit of creating questions develops."}],"answer":1},
+    {"id":10,"section":"Hindi Bhasha 01","hi":"भाषा विकास का द्वितीय चरण निम्न में से क्या है?","en":"What is the second stage of language development?","options":[{"hi":"बोलना","en":"Speaking"},{"hi":"पढ़ना","en":"Reading"},{"hi":"लिखना","en":"Writing"},{"hi":"सुनना","en":"Listening"}],"answer":0},
+    {"id":11,"section":"Hindi Bhasha 01","hi":"बच्चों में हिंदी भाषा सिखाने के प्रति रुचि उत्पन्न करना, यह उद्देश्य है","en":"Creating interest in learning Hindi language in children, this objective is for:","options":[{"hi":"उच्च स्तर के छात्रों के लिए","en":"Students of higher level"},{"hi":"प्राथमिक स्तर के छात्रों के लिए","en":"Students of primary level"},{"hi":"माध्यमिक स्तर के छात्रों के लिए","en":"Students of secondary level"},{"hi":"केवल हायर स्कूल के छात्रों के लिए","en":"Only higher school students"}],"answer":1},
+    {"id":12,"section":"Hindi Bhasha 01","hi":"कक्षा आठ के बच्चों के लिए साहित्य का चयन करते समय आपके लिए निम्न में से क्या जानना सर्वाधिक जरूरी है?","en":"While selecting literature for class 8, what is most essential to know?","options":[{"hi":"बच्चों की मनोवैज्ञानिक विशेषताएं","en":"Psychological characteristics of children"},{"hi":"बच्चों की भाषा प्रयोग की क्षमता","en":"Children's language usage ability"},{"hi":"पुस्तक के प्रकाशन से संबंधित जानकारी","en":"Information related to book publication"},{"hi":"बच्चों की मनोवैज्ञानिक विशेषताएं और भाषा प्रयोग की क्षमता","en":"Psychological characteristics and language ability"}],"answer":3},
+    {"id":13,"section":"Hindi Bhasha 01","hi":"नाटक, सिनेमा, परिचर्चा, वाद-विवाद आदि बच्चों की __________ व स्वाभाविक __________ एवं ________ प्रतिक्रिया करने की क्षमता का विकास करने में मदद करते हैं।","en":"Drama, discussions, debates help children develop ability for __________ and __________ reactions:","options":[{"hi":"स्वतंत्र, मौखिक, लिखित","en":"Independent, oral, written"},{"hi":"मानक, सहज, अभावी","en":"Standard, natural, basic"},{"hi":"योजना, सरलता, लिखित","en":"Planning, simplicity, written"},{"hi":"अभिव्यंजना, व्यक्तिगतता, मौखिक","en":"Expression, individuality, oral"}],"answer":0},
+    {"id":14,"section":"Hindi Bhasha 01","hi":"भाषा सीखने में होने वाली त्रुटियाँ","en":"Errors in language learning:","options":[{"hi":"बच्चे, शिक्षक, पाठ्यक्रम आदि की असफलताओं के संकेतक हैं","en":"Indicate failures of children, teachers, curriculum"},{"hi":"सही नहीं हैं इनके प्रति कठोर रवैया अपनाना चाहिए","en":"Are not correct, strict attitude should be adopted"},{"hi":"भाषा सीखने की प्रक्रिया के स्वाभाविक पड़ाव हैं","en":"Are natural stages of the language learning process"},{"hi":"भाषा-प्रयोग की असफलता की ओर संकेत करती हैं","en":"Indicate failure of language use"}],"answer":2},
+    {"id":15,"section":"Hindi Bhasha 01","hi":"पाठ्य पुस्तक भाषा शिक्षण में मुख्यतः क्या सहायता करती है?","en":"How does textbook mainly help in language teaching?","options":[{"hi":"बच्चों को विभिन्न पर्वों की जानकारी देती है","en":"Gives children knowledge of various festivals"},{"hi":"व्याकरणिक नियम कंठस्थ कराती है","en":"Helps memorize grammar rules"},{"hi":"भाषा की विभिन्न घटनाएँ प्रस्तुत करती है","en":"Presents various language phenomena"},{"hi":"बच्चों का आकलन करती है","en":"Evaluates children"}],"answer":2},
+    {"id":16,"section":"Hindi Bhasha 01","passage":"GADYANSH_RASHTRIYA","hi":"उपर्युक्त गद्यांश के लिए निम्न में से उचित शीर्षक का चयन कीजिए-","en":"Choose the appropriate title for the above passage:","options":[{"hi":"राजनीतिक असंगठन के क्षेत्र","en":"Political disorganization areas"},{"hi":"राष्ट्रीय एकता","en":"National Unity"},{"hi":"आतंकवाद: एक राष्ट्रीय खतरा","en":"Terrorism: A national threat"},{"hi":"कश्मीर: की आतंकवाद समस्या","en":"Kashmir: The terrorism problem"}],"answer":1},
+    {"id":17,"section":"Hindi Bhasha 01","passage":"GADYANSH_RASHTRIYA","hi":"उपर्युक्त गद्यांश के अनुसार कथन \"भारत ही अकेला देश है, जहाँ मंदिरों, गिरजाघरों, मस्जिदों, गुरुद्वारों और मठों में शांतिपूर्ण सह-अस्तित्व है।\" निम्न में से किसका है?","en":"According to the passage, who said 'India is the only country where there is peaceful coexistence in temples, churches, mosques, gurudwaras and monasteries'?","options":[{"hi":"डॉ. एस राधाकृष्णन","en":"Dr. S. Radhakrishnan"},{"hi":"इंदिरा गाँधी","en":"Indira Gandhi"},{"hi":"रवींद्रनाथ टैगोर","en":"Rabindranath Tagore"},{"hi":"महात्मा गांधी","en":"Mahatma Gandhi"}],"answer":0},
+    {"id":18,"section":"Hindi Bhasha 01","passage":"GADYANSH_RASHTRIYA","hi":"निम्न में से किस शब्द-युग्म का प्रयोग उपर्युक्त गद्यांश में नहीं किया गया है?","en":"Which word pair is NOT used in the above passage?","options":[{"hi":"धीरे-धीरे","en":"Slowly-slowly"},{"hi":"अलग-अलग","en":"Separately"},{"hi":"जब-जब","en":"Whenever"},{"hi":"भिन्न-भिन्न","en":"Different-different"}],"answer":3},
+    {"id":19,"section":"Hindi Bhasha 01","passage":"GADYANSH_RASHTRIYA","hi":"उपर्युक्त गद्यांश के अनुसार कथन \"भारत की एकता तथा चेतना समय की कसौटी पर सही सिद्ध हुई है।\" निम्न में से किसका है?","en":"According to passage, who said 'India's unity has been proven on the test of time'?","options":[{"hi":"डॉ. एस राधाकृष्णन","en":"Dr. S. Radhakrishnan"},{"hi":"इंदिरा गांधी","en":"Indira Gandhi"},{"hi":"रवींद्रनाथ टैगोर","en":"Rabindranath Tagore"},{"hi":"महात्मा गांधी","en":"Mahatma Gandhi"}],"answer":2},
+    {"id":20,"section":"Hindi Bhasha 01","passage":"GADYANSH_RASHTRIYA","hi":"उपर्युक्त गद्यांश के अनुसार, राष्ट्रीय एकता से क्या तात्पर्य है?","en":"According to the passage, what does national unity mean?","options":[{"hi":"राष्ट्र के विभिन्न धर्मों में एकता","en":"Unity among different religions"},{"hi":"राष्ट्र के विभिन्न घटकों में परस्पर एकता।","en":"Mutual unity among various components of the nation."},{"hi":"प्रेम एवं भाईचारे का कायम रहना।","en":"Maintenance of love and brotherhood."},{"hi":"राष्ट्र के विभिन्न घटकों में परस्पर एकता, प्रेम एवं भाईचारे का कायम रहना।","en":"Mutual unity, love and brotherhood among different components of the nation."}],"answer":3},
+    {"id":21,"section":"Hindi Bhasha 01","passage":"GADYANSH_RASHTRIYA","hi":"निम्न में से 'आबद्ध' का विलोम शब्द क्या है?","en":"What is the antonym of 'aabaddh'?","options":[{"hi":"आज़ाद","en":"Free"},{"hi":"अमुक्त","en":"Unfreed"},{"hi":"क़ैद","en":"Imprisoned"},{"hi":"सीमित","en":"Limited"}],"answer":0},
+    {"id":22,"section":"Hindi Bhasha 01","passage":"GADYANSH_RASHTRIYA","hi":"निम्न में से 'मतैकता' में कौन-सी संधि है?","en":"Which sandhi is used in 'mataiktaa'?","options":[{"hi":"यण संधि","en":"Yan Sandhi"},{"hi":"गुण संधि","en":"Gun Sandhi"},{"hi":"वृद्धि संधि","en":"Vriddhi Sandhi"},{"hi":"व्यंजन संधि","en":"Vyanjan Sandhi"}],"answer":2},
+    {"id":23,"section":"Hindi Bhasha 01","passage":"GADYANSH_RASHTRIYA","hi":"निम्न में से 'भारतवासी' शब्द में कौन सा समास है?","en":"In the word 'Bharatvasi', which compound (Samas) is used?","options":[{"hi":"द्वंद्व समास","en":"Dvandva Samas"},{"hi":"द्विगु समास","en":"Dvigu Samas"},{"hi":"कर्मधारय समास","en":"Karmadharaya Samas"},{"hi":"तत्पुरुष समास","en":"Tatpurusha Samas"}],"answer":3},
+    {"id":24,"section":"Hindi Bhasha 01","passage":"KAVYANSH_SUBHADRA","hi":"निम्न में से उपर्युक्त पंक्तियों के रचियता का नाम बताइए-","en":"Name the author of the above lines:","options":[{"hi":"सुभद्राकुमारी चौहान","en":"Subhadra Kumari Chauhan"},{"hi":"मुंशी प्रेमचंद","en":"Munshi Premchand"},{"hi":"भगवती चरण वर्मा","en":"Bhagwati Charan Verma"},{"hi":"महादेवी वर्मा","en":"Mahadevi Varma"}],"answer":0},
+    {"id":25,"section":"Hindi Bhasha 01","passage":"KAVYANSH_SUBHADRA","hi":"निम्न में से मतिमान का अर्थ क्या है?","en":"What does 'matimaan' mean?","options":[{"hi":"आँगन","en":"Courtyard"},{"hi":"निर्बुद्धि","en":"Foolish"},{"hi":"बुद्धिमान","en":"Wise/Intelligent"},{"hi":"मूर्ख","en":"Fool"}],"answer":2},
+    {"id":26,"section":"Hindi Bhasha 01","passage":"KAVYANSH_SUBHADRA","hi":"निम्न में से कौन-सा शब्द करुणा का पर्यायवाची नहीं है?","en":"Which is NOT a synonym of 'karuna' (compassion)?","options":[{"hi":"उदारता","en":"Generosity"},{"hi":"दया","en":"Mercy"},{"hi":"निष्ठुरता","en":"Cruelty"},{"hi":"सहानुभूति","en":"Sympathy"}],"answer":2},
+    {"id":27,"section":"Hindi Bhasha 01","passage":"KAVYANSH_SUBHADRA","hi":"दोहे और रोले को क्रम से मिलाने पर निम्न में से कौन-सा छंद बनता है?","en":"Combining doha and rola in sequence creates which meter?","options":[{"hi":"कुंडलिया","en":"Kundaliya"},{"hi":"सवैया","en":"Savaiya"},{"hi":"बरवै","en":"Barvai"},{"hi":"बरवै एवं सवैया","en":"Barvai and Savaiya"}],"answer":0},
+    {"id":28,"section":"Hindi Bhasha 01","passage":"KAVYANSH_SUBHADRA","hi":"निम्न में से किस शब्द का प्रयोग उपर्युक्त पंक्तियों में नहीं किया गया है?","en":"Which word is NOT used in the above poem?","options":[{"hi":"आँचल","en":"Anchal"},{"hi":"शोक","en":"Grief"},{"hi":"कोर","en":"Edge"},{"hi":"दृष्टि","en":"Vision"}],"answer":1},
+    {"id":29,"section":"Hindi Bhasha 01","passage":"KAVYANSH_SUBHADRA","hi":"निम्नलिखित में से किस शब्द में उपसर्ग का प्रयोग नहीं किया गया है?","en":"In which word is a prefix NOT used?","options":[{"hi":"महानता","en":"Greatness"},{"hi":"अवगुण","en":"Demerit"},{"hi":"निर्देश","en":"Instructions"},{"hi":"अनुप्रास","en":"Alliteration"}],"answer":0},
+    {"id":30,"section":"Hindi Bhasha 01","passage":"KAVYANSH_SUBHADRA","hi":"मुहावरा \"और का और हो जाना\" का क्या अर्थ है?","en":"What is the meaning of the idiom 'aur ka aur ho jaana'?","options":[{"hi":"गढ़ फतह करना","en":"To conquer"},{"hi":"थक कर चूर होना","en":"To be exhausted"},{"hi":"पहले जैसा ना रहना, बिल्कुल बदल जाना।","en":"Not remaining as before, completely changing."},{"hi":"अत्यधिक हर्ष होना","en":"Excessive happiness"}],"answer":2},
+
+    # MATHEMATICS (Q31-60)
+    {"id":31,"section":"Mathematics","hi":"47/87 और 77/87 का योग ज्ञात करें?","en":"Find the sum of 47/87 and 77/87?","options":[{"hi":"124/87","en":"124/87"},{"hi":"61/8","en":"61/8"},{"hi":"12/9","en":"12/9"},{"hi":"14/25","en":"14/25"}],"answer":0},
+    {"id":32,"section":"Mathematics","hi":"एक स्कूल में, 360 छात्र हैं जिनमें से दो-तिहाई लड़कियाँ हैं और शेष लड़के हैं जिनमें से तीन-चौथाई एक खेल खेलते हैं। लड़कों की संख्या जो खिलाड़ी नहीं हैं:","en":"In a school, 360 students, two-thirds are girls, rest are boys, three-fourths of boys are players. Number of boys who are NOT players:","options":[{"hi":"25","en":"25"},{"hi":"30","en":"30"},{"hi":"20","en":"20"},{"hi":"15","en":"15"}],"answer":1},
+    {"id":33,"section":"Mathematics","hi":"80 का 40% क्या है?","en":"What is 40% of 80?","options":[{"hi":"32","en":"32"},{"hi":"34","en":"34"},{"hi":"33","en":"33"},{"hi":"36","en":"36"}],"answer":0},
+    {"id":34,"section":"Mathematics","hi":"50 छात्रों की एक कक्षा में 40% लड़कियाँ हैं। कक्षा में लड़कियों की संख्या और लड़कों की संख्या ज्ञात कीजिए।","en":"In a class of 50 students, 40% are girls. Find number of girls and boys:","options":[{"hi":"लड़के 20: लड़कियाँ 30","en":"Boys 20: Girls 30"},{"hi":"लड़के 40: लड़कियाँ 10","en":"Boys 40: Girls 10"},{"hi":"लड़के 25: लड़कियाँ 25","en":"Boys 25: Girls 25"},{"hi":"लड़के 30: लड़कियाँ 20","en":"Boys 30: Girls 20"}],"answer":0},
+    {"id":35,"section":"Mathematics","hi":"कक्षा IX की अंतिम परीक्षा में 50 छात्र हैं, 10% छात्र अनुत्तीर्ण हैं। कक्षा X में कितने विद्यार्थी उत्तीर्ण हुए?","en":"In class IX final exam 50 students, 10% failed. How many passed to class X?","options":[{"hi":"50","en":"50"},{"hi":"45","en":"45"},{"hi":"40","en":"40"},{"hi":"55","en":"55"}],"answer":1},
+    {"id":36,"section":"Mathematics","hi":"संख्या 400 में 10% की वृद्धि करने पर नई संख्या क्या है?","en":"What is the new number if 400 is increased by 10%?","options":[{"hi":"360","en":"360"},{"hi":"440","en":"440"},{"hi":"540","en":"540"},{"hi":"460","en":"460"}],"answer":1},
+    {"id":37,"section":"Mathematics","hi":"एक मिश्रधातु में 26% ताँबा है। 260 ग्राम ताँबा प्राप्त करने के लिए कितनी मात्रा में मिश्र धातु की आवश्यकता होती है?","en":"An alloy contains 26% copper. What quantity is required to get 260g of copper?","options":[{"hi":"1200g","en":"1200g"},{"hi":"1000g","en":"1000g"},{"hi":"800g","en":"800g"},{"hi":"1500g","en":"1500g"}],"answer":1},
+    {"id":38,"section":"Mathematics","hi":"42.5% of 250 + 25% of 420","en":"42.5% of 250 + 25% of 420","options":[{"hi":"210","en":"210"},{"hi":"120","en":"120"},{"hi":"220","en":"220"},{"hi":"200","en":"200"}],"answer":0},
+    {"id":39,"section":"Mathematics","hi":"दशमलव को प्रतिशत 10.1 में व्यक्त करें?","en":"Express decimal 10.1 as percentage?","options":[{"hi":"100%","en":"100%"},{"hi":"110%","en":"110%"},{"hi":"101%","en":"101%"},{"hi":"1010%","en":"1010%"}],"answer":3},
+    {"id":40,"section":"Mathematics","hi":"कौन सी दी गई संख्या 3 से विभाज्य है लेकिन 9 से नहीं?","en":"Which given number is divisible by 3 but not by 9?","options":[{"hi":"34218","en":"34218"},{"hi":"33318","en":"33318"},{"hi":"19233","en":"19233"},{"hi":"27213","en":"27213"}],"answer":3},
+    {"id":41,"section":"Mathematics","hi":"वह संख्या चुनें जो एक साथ 3, 5 और 2 से विभाज्य हो।","en":"Choose number divisible by 3, 5 and 2 simultaneously.","options":[{"hi":"273525","en":"273525"},{"hi":"375225","en":"375225"},{"hi":"831240","en":"831240"},{"hi":"921320","en":"921320"}],"answer":2},
+    {"id":42,"section":"Mathematics","hi":"_____ 13 से विभाज्य है।","en":"_____ is divisible by 13.","options":[{"hi":"41305","en":"41305"},{"hi":"68781","en":"68781"},{"hi":"65520","en":"65520"},{"hi":"43127","en":"43127"}],"answer":2},
+    {"id":43,"section":"Mathematics","hi":"निम्नलिखित में से कौन 8 से विभाज्य है?","en":"Which of the following is divisible by 8?","options":[{"hi":"8561234","en":"8561234"},{"hi":"9828342","en":"9828342"},{"hi":"2345840","en":"2345840"},{"hi":"1689204","en":"1689204"}],"answer":2},
+    {"id":44,"section":"Mathematics","hi":"निम्नलिखित में से कौन 18 से विभाज्य है?","en":"Which of the following is divisible by 18?","options":[{"hi":"35892","en":"35892"},{"hi":"65212","en":"65212"},{"hi":"81074","en":"81074"},{"hi":"50187","en":"50187"}],"answer":0},
+    {"id":45,"section":"Mathematics","hi":"निम्नलिखित में से कौन 6 से विभाज्य है?","en":"Which of the following is divisible by 6?","options":[{"hi":"72662118","en":"72662118"},{"hi":"981562617","en":"981562617"},{"hi":"87645789","en":"87645789"},{"hi":"34278900","en":"34278900"}],"answer":3},
+    {"id":46,"section":"Mathematics","hi":"निम्नलिखित में से कौन 13 से विभाज्य है?","en":"Which of the following is divisible by 13?","options":[{"hi":"43267","en":"43267"},{"hi":"35678","en":"35678"},{"hi":"98565","en":"98565"},{"hi":"392613","en":"392613"}],"answer":3},
+    {"id":47,"section":"Mathematics","hi":"निम्नलिखित भिन्नों में से सबसे बड़ी भिन्न ज्ञात कीजिए: 33/100, 44/120, 58/148, 33/80","en":"Find the largest fraction: 33/100, 44/120, 58/148, 33/80","options":[{"hi":"33/100","en":"33/100"},{"hi":"44/120","en":"44/120"},{"hi":"58/148","en":"58/148"},{"hi":"33/80","en":"33/80"}],"answer":3},
+    {"id":48,"section":"Mathematics","hi":"निम्नलिखित भिन्नों में से सबसे छोटी भिन्न ज्ञात कीजिए: 1/12, 18/210, 4/50, 19/230","en":"Find the smallest fraction: 1/12, 18/210, 4/50, 19/230","options":[{"hi":"1/12","en":"1/12"},{"hi":"18/210","en":"18/210"},{"hi":"4/50","en":"4/50"},{"hi":"19/230","en":"19/230"}],"answer":2},
+    {"id":49,"section":"Mathematics","hi":"घन का आयतन जिसका किनारा 3a है?","en":"The volume of cube whose edge is 3a is?","options":[{"hi":"3a³","en":"3a³"},{"hi":"27a³","en":"27a³"},{"hi":"9a³","en":"9a³"},{"hi":"6a³","en":"6a³"}],"answer":1},
+    {"id":50,"section":"Mathematics","hi":"एक नियमित पंचभुज का परिमाप 1550 मी है। इसकी प्रत्येक भुजा कितनी लंबी है?","en":"Perimeter of a regular pentagon is 1550m. How long is each side?","options":[{"hi":"310 m","en":"310 m"},{"hi":"150 m","en":"150 m"},{"hi":"100 m","en":"100 m"},{"hi":"50 m","en":"50 m"}],"answer":0},
+    {"id":51,"section":"Mathematics","hi":"एक वर्ग का विकर्ण a सेमी है। निम्नलिखित में से कौन वर्ग के क्षेत्रफल को दर्शाता है?","en":"The diagonal of a square is a cm. Which represents the area of the square?","options":[{"hi":"2a","en":"2a"},{"hi":"a/√2","en":"a/√2"},{"hi":"a²/2","en":"a²/2"},{"hi":"a²/4","en":"a²/4"}],"answer":2},
+    {"id":52,"section":"Mathematics","hi":"28 सेमी त्रिज्या के एक वृत्ताकार तार को वर्ग बनाने के लिए मोड़ा जाता है। वर्ग के क्षेत्रफल का वृत्त के क्षेत्रफल से अनुपात ज्ञात कीजिए।","en":"A circular wire of radius 28 cm is bent to form a square. Find ratio of area of square to circle.","options":[{"hi":"21:28","en":"21:28"},{"hi":"14:15","en":"14:15"},{"hi":"20:21","en":"20:21"},{"hi":"11:14","en":"11:14"}],"answer":3},
+    {"id":53,"section":"Mathematics","hi":"कक्षा I और II के गणित के शिक्षण और अधिगम के लिए निम्नलिखित में से कौन-सा सही है?","en":"Which is true about teaching and learning of Mathematics in Class I and II?","options":[{"hi":"केवल मौखिक गणित के प्रश्नों को कराया जाना चाहिए।","en":"Only oral Mathematics problems should be done."},{"hi":"Mathematics should be integrated with other subjects like language, art, etc.","en":"Mathematics should be integrated with other subjects."},{"hi":"कक्षा I और II में गणित नहीं पढ़ाया जाना चाहिए।","en":"Mathematics should not be taught in Class I and II."},{"hi":"अभ्यास के लिए बहुत अधिक अवसर उपलब्ध कराये जाने चाहिए।","en":"Lots of opportunities for practice should be provided."}],"answer":1},
+    {"id":54,"section":"Mathematics","hi":"कक्षा में गणितीय मनोरंजनात्मक क्रियाकलाप तथा चुनौतीपूर्ण ज्यामितीय पहेलियाँ करना महत्वपूर्ण है क्योंकि:","en":"Mathematical recreational activities and geometric puzzles in class are important because:","options":[{"hi":"वे विद्यार्थियों को गणित कक्षा की एकरसता से बाहर लाते हैं।","en":"They bring students out of monotony."},{"hi":"वे प्रतिभाशाली शिक्षार्थियों को उचित अवसर प्रदान करते हैं।","en":"They give space to gifted learners."},{"hi":"वे प्रत्येक शिक्षार्थी की स्थानिक व विश्लेषणात्मक योग्यता के संवर्धन में सहायक हैं।","en":"They enhance spatial and analytical ability of every learner."},{"hi":"वे गणित में कम सफल शिक्षार्थियों में रुचि उत्पन्न करने में सहायक होते हैं।","en":"They create interest in low achievers in mathematics."}],"answer":2},
+    {"id":55,"section":"Mathematics","hi":"प्राथमिक कक्षाओं में रेखागणित का कौन-सा भाग पढ़ाया जाता है? (I) औपचारिक रेखागणित (II) अनौपचारिक रेखागणित","en":"Which part of Geometry is taught in primary classes? (I) Formal Geometry (II) Informal Geometry","options":[{"hi":"केवल I","en":"Only I"},{"hi":"केवल II","en":"Only II"},{"hi":"I और II दोनों","en":"Both I and II"},{"hi":"न तो I और न ही II","en":"Neither I nor II"}],"answer":1},
+    {"id":56,"section":"Mathematics","hi":"एक शिक्षक गणित कक्षा में समुदाय और भागीदारी की भावना को बढ़ावा देने की कोशिश कर रहा है; उसे _____ नहीं करना चाहिए:","en":"A teacher promoting community and participation in math class should NOT:","options":[{"hi":"एक-दूसरे के विचार को संसाधित करने के लिए छात्रों को प्रोत्साहित करना","en":"Encourage students to process one another's idea"},{"hi":"कई स्तरों के साथ जुड़े कार्य प्रदान करना","en":"Provide connected tasks with multiple levels"},{"hi":"शुरू करने के लिए समस्या को हल करने हेतु रणनीति प्रदान करना","en":"Provide strategy for the solution of the problem to start with."},{"hi":"समस्या-हल के लिए कक्षा को छोटे समूहों में विभाजित करना","en":"Divide the class into small groups for problem-solving."}],"answer":2},
+    {"id":57,"section":"Mathematics","hi":"गणित पाठ्यक्रम के लिए छात्रों में रुचि और प्रेरणा की कमी _____ को छोड़कर निम्नलिखित कारणों का एक परिणाम है: I. प्रतीकात्मक भाषा की प्रधानता II. गहराई से समझ III. प्रक्रियाओं की प्राथमिकता और सूत्रों का स्मरण","en":"Lack of interest in math curriculum is a result of all EXCEPT: I. Symbolic language II. In-depth understanding III. Priority to procedures","options":[{"hi":"I","en":"I"},{"hi":"II","en":"II"},{"hi":"II और III","en":"II & III"},{"hi":"I और III","en":"I & III"}],"answer":1},
+    {"id":58,"section":"Mathematics","hi":"उपचारात्मक शिक्षण के संबंध में इनमें से कौन-सा कथन सही नहीं है?","en":"Which statement is NOT correct regarding remedial teaching?","options":[{"hi":"ये विशेष शिक्षा के समान है","en":"Is same as special education"},{"hi":"प्रत्येक छात्र पर ध्यान देना","en":"Offers one on one attention to students"},{"hi":"केवल विशेष जरूरतों वाले छात्रों के लिए ही नहीं है","en":"Is not only meant for students with special needs"},{"hi":"उन छात्रों के लिए है जो अपने साथियों की तुलना में पिछड़ रहे हैं","en":"Is for students lagging behind than their peers"}],"answer":0},
+    {"id":59,"section":"Mathematics","hi":"शिक्षक द्वारा व्यवहार, घटना के तथ्यात्मक विवरण को रिकॉर्ड करने और विद्यार्थियों को वास्तविक रूप से समझने में मदद करने के लिए उपयोग किया जाने वाला एक खुला उपकरण। हम इनमें से किसकी बात कर रहे हैं:","en":"An open device used by teacher to record behaviour and factual description of incidents. Which are we referring to:","options":[{"hi":"रेटिंग स्केल","en":"Rating scale"},{"hi":"अवलोकन","en":"Observation"},{"hi":"चेकलिस्ट","en":"Checklist"},{"hi":"दिए गए विकल्पों में से कोई नहीं","en":"None of the given options"}],"answer":3},
+    {"id":60,"section":"Mathematics","hi":"असाधारण बच्चों के लिए उपचार के विवरण जो भी हों, हमारा मुख्य कार्य किसी विशेष बच्चे को ______ बनने में सहायता करना होना चाहिए।","en":"Our main task should be to help an exceptional child in becoming:","options":[{"hi":"शारीरिक तौर से सक्षम","en":"Physically fit"},{"hi":"भावनात्मक रूप से स्थिर","en":"Emotionally stable"},{"hi":"आर्थिक रूप से स्वतंत्र","en":"Economically independent"},{"hi":"अपने पर्यावरण के लिए पर्याप्त रूप से समायोजित","en":"Adequately adjust to his environment"}],"answer":3},
+
+    # ENVIRONMENTAL STUDY (Q61-90)
+    {"id":61,"section":"Environmental Study","hi":"निम्नलिखित में से कौन ईवीएस (EVS) के व्यापक विषयों के अंतर्गत नहीं आता है?","en":"Which is NOT under the broad themes of EVS?","options":[{"hi":"परिवार और रिश्तेदार","en":"Family and Relatives"},{"hi":"पौधे","en":"Plants"},{"hi":"आश्रय","en":"Shelter"},{"hi":"चीजें जो हम बनाते हैं और करते हैं","en":"Things we make and do"}],"answer":1},
+    {"id":62,"section":"Environmental Study","hi":"पर्यावरण अध्ययन को परिभाषित किया गया है:","en":"Environmental studies is defined as:","options":[{"hi":"एक बहु-विषयक शैक्षणिक क्षेत्र जो पर्यावरण के साथ मनुष्य के संपर्क का व्यवस्थित रूप से अध्ययन करता है","en":"A multi-disciplinary academic field which systematically studies human interaction with the environment"},{"hi":"नई पर्यावरण घटना का अध्ययन और खोज","en":"Study and discovery of new environment phenomenon"},{"hi":"सामाजिक, जैविक और भौतिक विज्ञान का अध्ययन","en":"Study of social, biological and physical science"},{"hi":"सम्मिलित रूप से विज्ञान और सामाजिक विज्ञान","en":"Incorporate science and social science"}],"answer":0},
+    {"id":63,"section":"Environmental Study","hi":"एक गैर-जलवायु कारक है:","en":"A non-climatic factor is:","options":[{"hi":"दबाव","en":"Pressure"},{"hi":"आर्द्रता","en":"Humidity"},{"hi":"नमी","en":"Moisture"},{"hi":"भूमि अवक्रमण","en":"Land degradation"}],"answer":3},
+    {"id":64,"section":"Environmental Study","hi":"पारिस्थितिक तंत्र पर मानवीय गतिविधियों के प्रभाव के बारे में निम्नलिखित में से कौन-सी गतिविधि सही है?","en":"Which activity is correct about the impact of human activities on the ecosystem?","options":[{"hi":"भूजल का ह्रास","en":"Depletion of ground water"},{"hi":"मिट्टी की उर्वरता बढ़ाना","en":"Increasing soil fertility"},{"hi":"वन क्षेत्र में वृद्धि करना","en":"Increase of forest area"},{"hi":"प्रदूषण कम करना","en":"Reduced Pollution"}],"answer":3},
+    {"id":65,"section":"Environmental Study","hi":"निम्नलिखित में से किस अनुसार, वायुमंडल में 79 प्रतिशत नाइट्रोजन और 21 प्रतिशत ऑक्सीजन है?","en":"By which of the following, atmosphere consists of 79% Nitrogen and 21% Oxygen?","options":[{"hi":"आयतन","en":"Volume"},{"hi":"भार","en":"Weight"},{"hi":"घनत्व","en":"Density"},{"hi":"वेग","en":"Velocity"}],"answer":0},
+    {"id":66,"section":"Environmental Study","hi":"निम्नलिखित में से क्या जंगल का कार्य नहीं है?","en":"Which of the following is NOT a forest service?","options":[{"hi":"सतह से वर्षा जल के प्रवाह को कम करना","en":"Reduces the surface run-off rainwater"},{"hi":"मिट्टी के कटाव को रोकना","en":"Prevents soil erosion"},{"hi":"स्थानीय तापमान को नियंत्रित करना","en":"Regulate the local temperature"},{"hi":"ध्वनि प्रदूषण कम करना","en":"Reduce noise pollution"}],"answer":3},
+    {"id":67,"section":"Environmental Study","hi":"निम्नलिखित में से कौन एक गैसीय जैव-भू-रासायनिक चक्र नहीं है?","en":"Which one is NOT a gaseous biogeochemical cycle?","options":[{"hi":"जल चक्र","en":"Water cycle"},{"hi":"कार्बन चक्र","en":"Carbon cycle"},{"hi":"फॉस्फोरस चक्र","en":"Phosphorus cycle"},{"hi":"ऑक्सीजन चक्र","en":"Oxygen cycle"}],"answer":2},
+    {"id":68,"section":"Environmental Study","hi":"चंगपा – पर्वतों पर रहने वाली एक जनजाति शंकु के आकार के तंबू में रहती है जिसे याक के बालों से बुना जाता है और नौ डंडों से बाँधा जाता है। उनके तंबू को क्या कहा जाता है?","en":"The Changpa – a mountain tribe's cone shaped tent woven with Yak hairs and tied with nine sticks. What is their tent called?","options":[{"hi":"रेबो","en":"Rebo"},{"hi":"चांगथंग","en":"Changthang"},{"hi":"ताशी","en":"Tashi"},{"hi":"जुले","en":"Jule"}],"answer":0},
+    {"id":69,"section":"Environmental Study","hi":"चांगपा अपनी भेड़-बकरी को अपने डेरे के पास रखते हैं, वह स्थान कहलाता है","en":"The Changpa keep their sheep and goat near their tent, the place is called:","options":[{"hi":"छप्पर","en":"Shed"},{"hi":"घाटी","en":"Donga"},{"hi":"लेखा","en":"Lekha"},{"hi":"शेका","en":"Sheeka"}],"answer":2},
+    {"id":70,"section":"Environmental Study","hi":"श्रीनगर में कई परिवार एक नाव में रहते हैं जो अंदर से अलग-अलग कमरों वाले घर की तरह है, मुख्यरूप से डल झील और झेलम नदी में देखा जाता है।","en":"In Srinagar many families live in a boat like a house with different rooms, seen in Dal Lake and Jhelum River.","options":[{"hi":"बोटहाउस","en":"Boathouse"},{"hi":"घाटी","en":"Donga"},{"hi":"खातंबंद","en":"Khatamband"},{"hi":"तालाबघरी","en":"Talabghar"}],"answer":1},
+    {"id":71,"section":"Environmental Study","hi":"कोई भी स्थान जिसके लिए ऐतिहासिक और स्थापत्य या सांस्कृतिक के संरक्षण की आवश्यकता होती है, क्या कहलाता है?","en":"Any space requiring conservation for historical, architectural or cultural reasons is known as?","options":[{"hi":"विरासत परिसर","en":"Heritage Precincts"},{"hi":"धनुषाकार","en":"Arcuate"},{"hi":"कोरबेल्ड","en":"Corbelled"},{"hi":"इच्छुक विरासत","en":"Inclined heritage"}],"answer":0},
+    {"id":72,"section":"Environmental Study","hi":"विरासत के प्रति जागरूकता के संबंध में (INTACH) का पूर्ण रूप क्या है?","en":"What is the full form of INTACH regarding awareness of heritage?","options":[{"hi":"कला और सांस्कृतिक विरासत के लिए भारतीय राष्ट्रीय न्यास","en":"Indian National Trust for Art and Cultural Heritage"},{"hi":"कला और सहकारी विरासत के लिए भारतीय राष्ट्रीय न्यास","en":"Indian National Trust for Art and cooperative heritage"},{"hi":"स्थापत्य और सुलेख विरासत के लिए भारतीय राष्ट्रीय न्यास","en":"Indian National Trust for architectural and calligraphic heritage"},{"hi":"पुरातात्विक संचयी विरासत के लिए भारतीय राष्ट्रीय न्यास","en":"Indian National Trust for archaeological cumulative heritage"}],"answer":0},
+    {"id":73,"section":"Environmental Study","hi":"भारत सरकार ने ग्रामीण लोगों के जीवन की गुणवत्ता में सुधार लाने और महिलाओं को गोपनीयता और सम्मान प्रदान करने के उद्देश्य से कौन सा कार्यक्रम और कब शुरू किया था?","en":"Which programme and when did the Govt. of India introduce to improve rural life quality and dignity of women?","options":[{"hi":"1986 में केंद्रीय ग्रामीण स्वच्छता कार्यक्रम (CRSP)","en":"Central Rural Sanitation Programme (CRSP) in 1986"},{"hi":"1987 में राष्ट्रीय महिला स्वास्थ्य और स्वच्छता (NWHS)","en":"National Women Health and Sanitization (NWHS) in 1987"},{"hi":"1990 में संपूर्ण स्वच्छता अभियान कार्यक्रम (TSCP)","en":"Total Sanitation Campaign Programme (TSCP) in 1990"},{"hi":"1988 में राष्ट्रीय ग्रामीण विकास और स्वच्छता कार्यक्रम (NRDSP)","en":"National Rural Development and Sanitation Programme (NRDSP) in 1988"}],"answer":0},
+    {"id":74,"section":"Environmental Study","hi":"भारत के प्रधान मंत्री ने स्वच्छ भारत मिशन कब शुरू किया था?","en":"When did The Prime Minister of India launch the Swachh Bharat Mission?","options":[{"hi":"1 जनवरी 2014","en":"1st January, 2014"},{"hi":"2 अक्टूबर 2014","en":"2nd October, 2014"},{"hi":"24 नवंबर 2014","en":"24th November, 2014"},{"hi":"15 अप्रैल, 2014","en":"15th April, 2014"}],"answer":1},
+    {"id":75,"section":"Environmental Study","hi":"भारत सरकार द्वारा INCOSPAR की स्थापना किस वर्ष की गई थी?","en":"In which year was INCOSPAR set up by the Government of India?","options":[{"hi":"1953","en":"1953"},{"hi":"1957","en":"1957"},{"hi":"1960","en":"1960"},{"hi":"1962","en":"1962"}],"answer":3},
+    {"id":76,"section":"Environmental Study","hi":"TERLS का पूर्ण रूप क्या था जिसे ISRO के पूर्ववर्ती संगठन द्वारा स्थापित किया गया था?","en":"What is the full-form of TERLS set-up by the predecessor organisation of ISRO?","options":[{"hi":"थिरुवनंतपुरम इक्वेटोरियल रॉकेट लॉन्चिंग स्टेशन","en":"Thiruvananthapuram Equatorial Rocket Launching Station"},{"hi":"थुम्बा इक्वेटोरियल रॉकेट लॉन्चिंग स्टेशन","en":"Thumba Equatorial Rocket Launching Station"},{"hi":"टू-इंजन रॉकेट लॉन्चिंग सिस्टम","en":"Two-Engine Rocket Launching System"},{"hi":"थ्री-इंजन रॉकेट लॉन्चिंग सिस्टम","en":"Three-Engine Rocket Launching System"}],"answer":1},
+    {"id":77,"section":"Environmental Study","hi":"निम्नलिखित में से कौन-सी अंतरिक्ष/एयरोस्पेस एजेंसी अपने देश के साथ सही सुमेलित नहीं है?","en":"Which space/aerospace agency is NOT correctly matched with its country?","options":[{"hi":"CNSA - China","en":"CNSA - China"},{"hi":"DLR Space Administration – Denmark","en":"DLR Space Administration – Denmark"},{"hi":"CNES - France","en":"CNES - France"},{"hi":"LAPAN - Indonesia","en":"LAPAN - Indonesia"}],"answer":1},
+    {"id":78,"section":"Environmental Study","hi":"भारत के पहले उपग्रह आर्यभट्ट का प्रक्षेपण द्रव्यमान क्या था?","en":"What was the launch mass of India's first-ever satellite Aryabhata?","options":[{"hi":"240 किलो","en":"240 kg"},{"hi":"300 किलो","en":"300 kg"},{"hi":"360 किलो","en":"360 kg"},{"hi":"400 किलो","en":"400 kg"}],"answer":2},
+    {"id":79,"section":"Environmental Study","hi":"पृथ्वी का पहला कृत्रिम उपग्रह किस वर्ष सफलतापूर्वक प्रक्षेपित किया गया था?","en":"In which year was the world's first-ever artificial satellite successfully launched?","options":[{"hi":"1954","en":"1954"},{"hi":"1957","en":"1957"},{"hi":"1960","en":"1960"},{"hi":"1963","en":"1963"}],"answer":1},
+    {"id":80,"section":"Environmental Study","hi":"भारत के पहले उपग्रह आर्यभट्ट का कक्षीय जीवन था:","en":"The orbital life of India's first-ever satellite Aryabhata was:","options":[{"hi":"सत्रह साल से थोड़ा अधिक।","en":"A little more than seventeen years."},{"hi":"सत्रह साल से थोड़ा कम।","en":"A little less than seventeen years."},{"hi":"अठारह साल से थोड़ा कम।","en":"A little less than eighteen years."},{"hi":"अठारह साल से थोड़ा अधिक।","en":"A little more than eighteen years."}],"answer":1},
+    {"id":81,"section":"Environmental Study","hi":"SLV-3 को किस वर्ष सफलतापूर्वक प्रक्षेपित किया गया था?","en":"In which year was SLV-3 successfully launched?","options":[{"hi":"1977","en":"1977"},{"hi":"1980","en":"1980"},{"hi":"1984","en":"1984"},{"hi":"1987","en":"1987"}],"answer":1},
+    {"id":82,"section":"Environmental Study","hi":"SLV-3 के प्रथम सफल प्रक्षेपण द्वारा कौन सा उपग्रह प्रक्षेपित किया गया था?","en":"Which satellite was launched by the first successful launch of SLV-3?","options":[{"hi":"रोहिणी सैटेलाइट-2","en":"Rohini Satellite-2"},{"hi":"CARTOSAT-1","en":"CARTOSAT-1"},{"hi":"CARTOSAT-2","en":"CARTOSAT-2"},{"hi":"रोहिणी सैटेलाइट-3","en":"Rohini Satellite-3"}],"answer":3},
+    {"id":83,"section":"Environmental Study","hi":"निम्नलिखित में से कौन सा उपग्रह कक्षा में पहुँचने में विफल रहा?","en":"Which of the following satellites failed to reach the orbit?","options":[{"hi":"SROSS-1","en":"SROSS-1"},{"hi":"SLV-3D1","en":"SLV-3D1"},{"hi":"SROSS-C2","en":"SROSS-C2"},{"hi":"NIUSAT","en":"NIUSAT"}],"answer":0},
+    {"id":84,"section":"Environmental Study","hi":"इसरो के उपग्रहों पर विचार करें: 1. रोहिणी उपग्रह RS-D2 2. रोहिणी उपग्रह RS-1 3. रोहिणी प्रौद्योगिकी पेलोड (RTP) - कौन सा मिशन सफल रहा?","en":"ISRO satellites: 1. Rohini RS-D2, 2. Rohini RS-1, 3. Rohini Technology Payload (RTP) - Which missions were successful?","options":[{"hi":"केवल 1 और 2","en":"Only 1 and 2"},{"hi":"केवल 2 और 3","en":"Only 2 and 3"},{"hi":"केवल 1 और 3","en":"Only 1 and 3"},{"hi":"1, 2 और 3","en":"1, 2 and 3"}],"answer":0},
+    {"id":85,"section":"Environmental Study","hi":"इसरो के अंतरिक्ष यान: 1. चंद्रयान-1 2. मार्स ऑर्बिटर स्पेसक्राफ्ट - किसे PSLV का उपयोग करके लॉन्च किया गया था?","en":"ISRO spacecrafts: 1. Chandrayaan-1, 2. Mars Orbiter Spacecraft - Which was launched using PSLV?","options":[{"hi":"केवल 1","en":"Only 1"},{"hi":"केवल 2","en":"Only 2"},{"hi":"दोनों 1 और 2","en":"Both 1 and 2"},{"hi":"न तो 1 और न ही 2","en":"Neither 1 nor 2"}],"answer":2},
+    {"id":86,"section":"Environmental Study","hi":"न्यूस्पेस इंडिया लिमिटेड (NSIL) के निम्नलिखित में से कौन सा कार्य है? 1. उपग्रह बनाना 2. ग्राहकों के उपग्रहों के लिए लॉन्चिंग सेवाएं 3. भारतीय उद्योगों के माध्यम से उपग्रह निर्माण को सुगम बनाना","en":"Which of the following is a work of NSIL? 1. To build satellites 2. To provide launching services 3. Facilitate satellite building through Indian industries.","options":[{"hi":"केवल 1 और 2","en":"Only 1 and 2"},{"hi":"केवल 2 और 3","en":"Only 2 and 3"},{"hi":"केवल 1 और 3","en":"Only 1 and 3"},{"hi":"1, 2 और 3","en":"1, 2 and 3"}],"answer":3},
+    {"id":87,"section":"Environmental Study","hi":"छोटे समूह में चर्चा के दौरान शिक्षक को क्या सुनिश्चित करना चाहिए? 1. हर चर्चा लक्ष्योन्मुखी होनी चाहिए 2. बच्चों के पास विषय के बारे में पर्याप्त जानकारी है 3. किसी भी दृष्टिकोण का अनादर नहीं होना","en":"What should teacher ensure during small group discussion? 1. Every discussion should be goal oriented 2. Children have sufficient information 3. No viewpoint is disrespected","options":[{"hi":"केवल 1 और 2","en":"Only 1 and 2"},{"hi":"केवल 2 और 3","en":"Only 2 and 3"},{"hi":"केवल 1 और 3","en":"Only 1 and 3"},{"hi":"1, 2 और 3","en":"1, 2 and 3"}],"answer":3},
+    {"id":88,"section":"Environmental Study","hi":"कई छात्र छोटे समूह में चर्चा का आनंद लेते हैं क्योंकि: 1. यह सहकर्मी आधारित संचार है 2. इसमें अंतःक्रियाएं होती हैं 3. यह विद्यार्थियों की सक्रिय भागीदारी को प्रोत्साहित करता है","en":"Many students enjoy small group discussion because: 1. peer based communication 2. interactive 3. encourages active participation","options":[{"hi":"केवल 1 और 2","en":"Only 1 and 2"},{"hi":"केवल 2 और 3","en":"Only 2 and 3"},{"hi":"केवल 1 और 3","en":"Only 1 and 3"},{"hi":"1, 2 और 3","en":"1, 2 and 3"}],"answer":3},
+    {"id":89,"section":"Environmental Study","hi":"छात्र जो कौशल छोटे समूह की चर्चा के माध्यम से विकसित करते हैं: 1. विश्लेषणात्मक 2. संचार","en":"Skills students develop through small group discussion: 1. analytical 2. communication","options":[{"hi":"केवल 1","en":"Only 1"},{"hi":"केवल 2","en":"Only 2"},{"hi":"दोनों 1 और 2","en":"Both 1 and 2"},{"hi":"न तो 1 और न ही 2","en":"Neither 1 nor 2"}],"answer":2},
+    {"id":90,"section":"Environmental Study","hi":"निम्नलिखित में से कौन-सा ईवीएस शिक्षण अधिगम की अवलोकन विधि का लाभ नहीं है?","en":"Which is NOT an advantage of observation method of teaching EVS?","options":[{"hi":"छात्रों को संतुष्ट करता है","en":"Satisfies students"},{"hi":"लेखन कौशल विकसित करता है","en":"Develops writing skills"},{"hi":"छात्रों की जिज्ञासा विकसित करता है","en":"Develops curiosity of the students"},{"hi":"बच्चों को उनके पर्यावरण का पता लगाने के लिए प्रोत्साहित करता है","en":"Encourage children to explore their environment"}],"answer":1},
+
+    # ENGLISH LANGUAGE 02 (Q91-120)
+    {"id":91,"section":"English Language 02","passage":"ENGLISH_POEM_DREAM","hi":"दिए गए कविता के लिए सबसे उपयुक्त शीर्षक कौन-सा है?","en":"Which of the following is the most suitable title for the given poem?","options":[{"hi":"Dream and Nightmare","en":"Dream and Nightmare"},{"hi":"Tragedy of a Dream","en":"Tragedy of a Dream"},{"hi":"A Dream Within a Dream","en":"A Dream Within a Dream"},{"hi":"Dream of one's life","en":"Dream of one's life"}],"answer":2},
+    {"id":92,"section":"English Language 02","passage":"ENGLISH_POEM_DREAM","hi":"'Is it therefore the less gone?' वक्ता यहाँ क्या कहना चाहता है?","en":"'Is it therefore the less gone?' What does the speaker talk about here?","options":[{"hi":"वक्ता अपने विचारों को नियंत्रित करना चाहता है","en":"The wants to control his thoughts"},{"hi":"वक्ता आशा के जाने और बिना आशा के रहने के बारे में बात करता है","en":"The speaker talks about hope, going away and being without hope"},{"hi":"वक्ता अपनी इच्छाओं को नियंत्रित करना चाहता है","en":"The speaker wants to control his desires"},{"hi":"वक्ता अपने जीवन से खुश रहना चाहता है","en":"The speaker wants to feel happy about his life"}],"answer":1},
+    {"id":93,"section":"English Language 02","passage":"ENGLISH_POEM_DREAM","hi":"'O God! Can I not grasp them with a tighter clasp?' वक्ता क्या पकड़ने की बात करता है?","en":"The speaker talks about grasping something, what is it?","options":[{"hi":"अकेले रहने की इच्छा को थामना","en":"Grasping the desire of being lonely"},{"hi":"परिवार से दूर रहने की भावना को थामना","en":"Grasping the feelings of being away from his family"},{"hi":"अपने पुराने सपनों की छवि को थामना","en":"Grasping the image/jogs of his old dreams"},{"hi":"सुनहली रेत के कणों को थामना","en":"Grasping the grains of the golden sand"}],"answer":3},
+    {"id":94,"section":"English Language 02","passage":"ENGLISH_POEM_DREAM","hi":"दिए गए कविता में 'torment' शब्द का समान अर्थ वाला शब्द कौन-सा है?","en":"Which of the following is similar in meaning to the word 'torment' in the given poem?","options":[{"hi":"assist","en":"assist"},{"hi":"agony","en":"agony"},{"hi":"commend","en":"commend"},{"hi":"comfort","en":"comfort"}],"answer":1},
+    {"id":95,"section":"English Language 02","passage":"ENGLISH_POEM_DREAM","hi":"'Take this kiss upon the brow'. वक्ता किसे चूमने की बात करता है?","en":"'Take this kiss upon the brow'. Where does the speaker talk about kissing someone?","options":[{"hi":"माथे पर","en":"On the forehead"},{"hi":"होंठों पर","en":"On the lips"},{"hi":"गालों पर","en":"On the cheeks"},{"hi":"नाक पर","en":"On the nose"}],"answer":0},
+    {"id":96,"section":"English Language 02","passage":"ENGLISH_POEM_DREAM","hi":"'I stand amid the roar'. इस पंक्ति में 'amid' शब्द की व्याकरण कोटि क्या है?","en":"'I stand amid the roar'. Which part of speech is the word 'amid'?","options":[{"hi":"adjective","en":"adjective"},{"hi":"adverb","en":"adverb"},{"hi":"preposition","en":"preposition"},{"hi":"conjunction","en":"conjunction"}],"answer":2},
+    {"id":97,"section":"English Language 02","passage":"ENGLISH_POEM_DREAM","hi":"दिए गए कविता में 'pitiless' शब्द का क्या अर्थ है?","en":"What does the word 'pitiless' mean in the given poem?","options":[{"hi":"brief and to the point","en":"brief and to the point"},{"hi":"lacking moral discipline","en":"lacking moral discipline"},{"hi":"cruel, severe and unpleasant","en":"cruel, severe and unpleasant"},{"hi":"effusively or insincerely emotional","en":"effusively or insincerely emotional"}],"answer":2},
+    {"id":98,"section":"English Language 02","passage":"ENGLISH_KRISHNA_PASSAGE","hi":"दिए गए अनुच्छेद के अनुसार, कृष्ण का जन्म भारतीय कैलेंडर के किस महीने में हुआ था?","en":"According to the passage, Krishna was born in which month of the Indian calendar?","options":[{"hi":"Bhadon","en":"Bhadon"},{"hi":"Bhadrpad","en":"Bhadrpad"},{"hi":"Chatra","en":"Chatra"},{"hi":"Shravan","en":"Shravan"}],"answer":0},
+    {"id":99,"section":"English Language 02","passage":"ENGLISH_KRISHNA_PASSAGE","hi":"दिए गए अनुच्छेद के अनुसार, श्री कृष्ण को हमेशा रंग कॉम्प्लेक्स क्यों होता था?","en":"According to the passage, why Lord Krishna always feels colour complex?","options":[{"hi":"Because Krishana was born in dark night","en":"Because Krishana was born in dark night"},{"hi":"Because Krishana was dark-coloured","en":"Because Krishana was dark-coloured"},{"hi":"Because Krishana had problems all over his life","en":"Because Krishana had problems all over his life"},{"hi":"Because Radha was very beautiful and fair","en":"Because Radha was very beautiful and fair"}],"answer":3},
+    {"id":100,"section":"English Language 02","passage":"ENGLISH_KRISHNA_PASSAGE","hi":"लेखक को भगवान श्री कृष्ण के बारे में इतना कैसे पता हुआ?","en":"How did the author happen to know so much about Lord Sri Krishna?","options":[{"hi":"As a child he used to watch many shows on Sri Krishna","en":"As a child he used to watch many shows on Sri Krishna"},{"hi":"Author's father made him visit the Sri Krishna temple near their house every week","en":"Author's father made him visit the Sri Krishna temple near their house every week"},{"hi":"Author's mother had a small temple in their house","en":"Author's mother had a small temple in their house"},{"hi":"All of the given options","en":"All of the given options"}],"answer":0},
+    {"id":101,"section":"English Language 02","passage":"ENGLISH_KRISHNA_PASSAGE","hi":"अनुच्छेद में दी गई जानकारी के अनुसार निम्नलिखित में से कौन सा कथन सही नहीं है?","en":"Which of the following statements is NOT correct according to the passage?","options":[{"hi":"Lord Krishna was born in a prison.","en":"Lord Krishna was born in a prison."},{"hi":"Vasudev gave him to his friend Nand to save him.","en":"Vasudev gave him to his friend Nand to save him."},{"hi":"Lord Krishna is the most powerful incarnation of Lord Shiva.","en":"Lord Krishna is the most powerful incarnation of Lord Shiva."},{"hi":"Sri Krishna was very fond of eating Makhan.","en":"Sri Krishna was very fond of eating Makhan."}],"answer":2},
+    {"id":102,"section":"English Language 02","passage":"ENGLISH_KRISHNA_PASSAGE","hi":"'This is one of the most joyous celebrations'. 'joyous' का विलोम शब्द कौन-सा है?","en":"Which is opposite in meaning to the word 'joyous'?","options":[{"hi":"gloomy","en":"gloomy"},{"hi":"elated","en":"elated"},{"hi":"upbeat","en":"upbeat"},{"hi":"ecstatic","en":"ecstatic"}],"answer":0},
+    {"id":103,"section":"English Language 02","passage":"ENGLISH_KRISHNA_PASSAGE","hi":"'The festival usually occurs in August'. 'occur' के निकटतम अर्थ वाला शब्द कौन-सा है?","en":"Which is nearest in meaning to the word 'occur'?","options":[{"hi":"precede","en":"precede"},{"hi":"hide","en":"hide"},{"hi":"annex","en":"annex"},{"hi":"arise","en":"arise"}],"answer":3},
+    {"id":104,"section":"English Language 02","passage":"ENGLISH_KRISHNA_PASSAGE","hi":"'Radha was of great importance to Krishna. So he always spent time with her'. 'always' की व्याकरण कोटि क्या है?","en":"Which part of speech is the word 'always' in the given line?","options":[{"hi":"determiner","en":"determiner"},{"hi":"adverb","en":"adverb"},{"hi":"preposition","en":"preposition"},{"hi":"adjective","en":"adjective"}],"answer":1},
+    {"id":105,"section":"English Language 02","passage":"ENGLISH_KRISHNA_PASSAGE","hi":"'Moreover, Sri Krishna had a friend named Radha'. 'moreover' की व्याकरण कोटि क्या है?","en":"Which part of speech is the word 'moreover' in the given line?","options":[{"hi":"adverb","en":"adverb"},{"hi":"conjunction","en":"conjunction"},{"hi":"preposition","en":"preposition"},{"hi":"adjective","en":"adjective"}],"answer":0},
+    {"id":106,"section":"English Language 02","hi":"On what should a teacher mainly focus while designing a working activity for a language class?","en":"On what should a teacher mainly focus while designing a working activity for a language class?","options":[{"hi":"providing all necessary vocabulary required for the task","en":"providing all necessary vocabulary required for the task"},{"hi":"giving clear instruction for the task","en":"giving clear instruction for the task"},{"hi":"choosing a topic from their surrounding","en":"choosing a topic from their surrounding"},{"hi":"assigning an authentic piece of writing task","en":"assigning an authentic piece of writing task"}],"answer":2},
+    {"id":107,"section":"English Language 02","hi":"If some children do not have exposure to English outside the class, a teacher's proficiency in spoken English is essential because —","en":"If some children do not have exposure to English outside the class, a teacher's proficiency in spoken English is essential because —","options":[{"hi":"the students may listen to and process new language before they actually communicate in it","en":"the students may listen to and process new language before they actually communicate in it"},{"hi":"the teacher can give more time to grammar drills","en":"the teacher can give more time to grammar drills"},{"hi":"the teacher can edit the errors in student's learning process","en":"the teacher can edit the errors in student's learning process"},{"hi":"student can imitate, practice and drill the statements or sentences used by the teacher","en":"student can imitate, practice and drill the statements or sentences used by the teacher"}],"answer":0},
+    {"id":108,"section":"English Language 02","hi":"Which of the following skills is involved if notes are made using a flowchart or a web diagram?","en":"Which of the following skills is involved if notes are made using a flowchart or a web diagram?","options":[{"hi":"retrieving","en":"retrieving"},{"hi":"summarising","en":"summarising"},{"hi":"storing","en":"storing"},{"hi":"gathering","en":"gathering"}],"answer":1},
+    {"id":109,"section":"English Language 02","hi":"Instead of asking questions, a teacher gives some short text and asks learners to frame questions. What is the teacher's primary objective?","en":"Instead of asking questions, a teacher gives short text and asks learners to frame questions. Primary objective:","options":[{"hi":"to enhance the learners analytical and critical thinking","en":"to enhance the learners analytical and critical thinking"},{"hi":"to train the learners as good questions setters","en":"to train the learners as good questions setters"},{"hi":"to take their help during the examination","en":"to take their help during the examination"},{"hi":"all of the given options","en":"all of the given options"}],"answer":0},
+    {"id":110,"section":"English Language 02","hi":"Direction: I think it's quite ______________ that your parents still hold hands.","en":"Find the most appropriate option: 'I think it's quite _____ that your parents still hold hands.'","options":[{"hi":"recently","en":"recently"},{"hi":"mostly","en":"mostly"},{"hi":"adorable","en":"adorable"},{"hi":"careful","en":"careful"}],"answer":2},
+    {"id":111,"section":"English Language 02","hi":"Direction: I wasn't even ________________ at all that he was ill.","en":"Find the most appropriate option: 'I wasn't even _____ at all that he was ill.'","options":[{"hi":"cruel","en":"cruel"},{"hi":"broad","en":"broad"},{"hi":"brave","en":"brave"},{"hi":"aware","en":"aware"}],"answer":3},
+    {"id":112,"section":"English Language 02","hi":"Direction: His autobiography will be one of the most ______________ awaited books.","en":"Find the most appropriate option: 'His autobiography will be one of the most _____ awaited books.'","options":[{"hi":"cheerful","en":"cheerful"},{"hi":"deftly","en":"deftly"},{"hi":"eagerly","en":"eagerly"},{"hi":"happy","en":"happy"}],"answer":2},
+    {"id":113,"section":"English Language 02","hi":"Direction: Most people are completely ________________ about tide directions and weather conditions.","en":"Find the most appropriate option: 'Most people are completely _____ about tide directions and weather conditions. They know nothing.'","options":[{"hi":"useless","en":"useless"},{"hi":"thoughtful","en":"thoughtful"},{"hi":"serious","en":"serious"},{"hi":"clueless","en":"clueless"}],"answer":3},
+    {"id":114,"section":"English Language 02","hi":"Direction: To be ________________ with you, I don't think it will be possible for us to go there.","en":"Find the most appropriate option: 'To be _____ with you, I don't think it will be possible for us to go there.'","options":[{"hi":"insure","en":"insure"},{"hi":"assure","en":"assure"},{"hi":"honest","en":"honest"},{"hi":"false","en":"false"}],"answer":2},
+    {"id":115,"section":"English Language 02","hi":"In the process of learning a language, what can be the first step?","en":"In the process of learning a language, what can be the first step?","options":[{"hi":"Listening","en":"Listening"},{"hi":"Speaking","en":"Speaking"},{"hi":"Writing","en":"Writing"},{"hi":"Knowledge","en":"Knowledge"}],"answer":0},
+    {"id":116,"section":"English Language 02","hi":"Which of the following forms the foundation for communicative competence in the language?","en":"Which forms the foundation for communicative competence in the language?","options":[{"hi":"Knowledge","en":"Knowledge"},{"hi":"Speaking","en":"Speaking"},{"hi":"Writing","en":"Writing"},{"hi":"Listening","en":"Listening"}],"answer":3},
+    {"id":117,"section":"English Language 02","hi":"How can a teacher eradicate socio-psychological problems of the students?","en":"How can a teacher eradicate socio-psychological problems of the students?","options":[{"hi":"by motivating them","en":"by motivating them"},{"hi":"by giving them some responsibility","en":"by giving them some responsibility"},{"hi":"both of the given options","en":"both of the given options"},{"hi":"None of the given options","en":"None of the given options"}],"answer":2},
+    {"id":118,"section":"English Language 02","hi":"A learner is unable to use certain difficult rules of language and skips its usage. Such errors are known as:","en":"A learner is unable to use certain difficult rules of language and skips its usage. Such errors are known as:","options":[{"hi":"Developmental error","en":"Developmental error"},{"hi":"Induced error","en":"Induced error"},{"hi":"Avoidance error","en":"Avoidance error"},{"hi":"Interlingual Error","en":"Interlingual Error"}],"answer":2},
+    {"id":119,"section":"English Language 02","hi":"Inferential Comprehension requires a reader to:","en":"Inferential Comprehension requires a reader to:","options":[{"hi":"Study author's background and the era of writing","en":"Study author's background and the era of writing"},{"hi":"Interpret and evaluate information within the text","en":"Interpret and evaluate information within the text"},{"hi":"Understand the facts that lie in the text","en":"Understand the facts that lie in the text"},{"hi":"Preview and review the vocabulary and its usage","en":"Preview and review the vocabulary and its usage"}],"answer":1},
+    {"id":120,"section":"English Language 02","hi":"In order to improve spelling errors of students, a teacher should:","en":"In order to improve spelling errors of students, a teacher should:","options":[{"hi":"Create a spelling wall in the classroom","en":"Create a spelling wall in the classroom"},{"hi":"Ask them to memorize spellings","en":"Ask them to memorize spellings"},{"hi":"Use audio aids","en":"Use audio aids"},{"hi":"None of the above","en":"None of the above"}],"answer":0},
+
+    # CHILD DEVELOPMENT (Q121-150)
+    {"id":121,"section":"Child Development","hi":"स्थूल क्रियात्मक कौशल (Gross motor skill) है:","en":"Gross motor skill is:","options":[{"hi":"लेखन","en":"Writing"},{"hi":"चित्रकारी","en":"Drawing"},{"hi":"चलना","en":"Walking"},{"hi":"पकड़ना","en":"Catching"}],"answer":2},
+    {"id":122,"section":"Child Development","hi":"विकास में एक निश्चित क्रम पाया जाता है:","en":"A definite sequence is found in development:","options":[{"hi":"सिर से पाँवों तक","en":"From head to legs"},{"hi":"धड़ से कमर तक","en":"From trunk to waist"},{"hi":"कमर से पाँवों तक","en":"From waist to legs"},{"hi":"पाँवों से सिर तक","en":"From legs to head"}],"answer":0},
+    {"id":123,"section":"Child Development","hi":"विकास के निर्धारक तत्व हैं:","en":"Determinants of development is:","options":[{"hi":"माता-पिता का स्वास्थ्य","en":"Health of parents"},{"hi":"माता-पिता का शैक्षणिक स्तर","en":"Educational level of parents"},{"hi":"परिवार का सामाजिक संबंध","en":"Social relation of family"},{"hi":"परिपक्वता एवं सीखना","en":"Maturity and learning"}],"answer":3},
+    {"id":124,"section":"Child Development","hi":"दौड़ना एवं चढ़ना निम्नलिखित से संबंधित है:","en":"Running and climbing is related to:","options":[{"hi":"पाँवों का क्रियात्मक कौशल","en":"Motor development of legs"},{"hi":"हाथों का क्रियात्मक कौशल","en":"Motor development of hands"},{"hi":"धड़ का क्रियात्मक कौशल","en":"Motor development of trunk"},{"hi":"शारीरिक विकास","en":"Physical development"}],"answer":0},
+    {"id":125,"section":"Child Development","hi":"वृद्धि एवं विकास एक दूसरे से ………… हैं।","en":"Growth and development are:","options":[{"hi":"अंतर्संबंधित और अंतर्निर्भर","en":"Interrelated and interdependent"},{"hi":"विपरीत","en":"Opposite"},{"hi":"समान","en":"Similar"},{"hi":"अलग-अलग","en":"Different"}],"answer":0},
+    {"id":126,"section":"Child Development","hi":"भ्रूण किसकी सहायता से माँ के शरीर से जुड़ा रहता है:","en":"Embryo attached to which part of mother:","options":[{"hi":"नाभि नाल","en":"Umbilical cord"},{"hi":"अपरा","en":"Placenta"},{"hi":"रक्त कोशिकाएँ","en":"Blood capillaries"},{"hi":"रक्त धमनी","en":"Blood artery"}],"answer":1},
+    {"id":127,"section":"Child Development","hi":"मस्तिष्क का 75% विकास किस आयु में होता है?","en":"75% brain develops in which age?","options":[{"hi":"2 वर्ष","en":"2 years"},{"hi":"5 वर्ष","en":"5 years"},{"hi":"10 वर्ष","en":"10 years"},{"hi":"21 वर्ष","en":"21 years"}],"answer":1},
+    {"id":128,"section":"Child Development","hi":"चम्मच पकड़ने की प्रक्रिया बालक सीखता है:","en":"The process of spoon holding is learnt by child:","options":[{"hi":"आँख एवं हाथ के समन्वय से","en":"Eye and hand coordination"},{"hi":"सामाजिक विकास से","en":"Social development"},{"hi":"शारीरिक विकास से","en":"Physical development"},{"hi":"माँसपेशियों के विकास से","en":"Muscles development"}],"answer":0},
+    {"id":129,"section":"Child Development","hi":"विकास की गति एक व्यक्ति से दूसरे व्यक्ति में भिन्न होती है, परन्तु यह _____ पैटर्न का अनुसरण करती है:","en":"The pace of development varies from individual to individual, but follows _____ pattern:","options":[{"hi":"अव्यवस्थित","en":"A haphazard"},{"hi":"अप्रत्याशित","en":"An unpredictable"},{"hi":"अनुक्रमिक एवं व्यवस्थित","en":"A sequential and orderly"},{"hi":"पैर से सिर तक","en":"A leg to head"}],"answer":2},
+    {"id":130,"section":"Child Development","hi":"सीखने के लिए किसने स्वतंत्रता एवं निरंतरता को आवश्यक माना?","en":"Who considered freedom and continuity to be necessary for learning?","options":[{"hi":"स्किनर","en":"Skinner"},{"hi":"फ्रोबेल","en":"Frobel"},{"hi":"चॉम्स्की","en":"Chomsky"},{"hi":"पियाजे","en":"Piaget"}],"answer":1},
+    {"id":131,"section":"Child Development","hi":"भाषा अर्जन का सिद्धांत किसने दिया?","en":"Who gave the principle of language acquisition?","options":[{"hi":"चॉम्स्की","en":"Chomsky"},{"hi":"वाइगोत्स्की","en":"Vygotsky"},{"hi":"फ्रायड","en":"Freud"},{"hi":"पियाजे","en":"Piaget"}],"answer":0},
+    {"id":132,"section":"Child Development","hi":"बबलाना _____ आयु में प्रारम्भ होता है।","en":"Babbling started in _____ age.","options":[{"hi":"दो महीने","en":"Two months"},{"hi":"चार महीने","en":"Four months"},{"hi":"आठ महीने","en":"Eight months"},{"hi":"बारह महीने","en":"Twelve months"}],"answer":0},
+    {"id":133,"section":"Child Development","hi":"बबलाने की प्रक्रिया में सर्वप्रथम _____ होता है:","en":"First pronounce in babbling process:","options":[{"hi":"स्वर","en":"Vowels"},{"hi":"व्यंजन","en":"Consonants"},{"hi":"शब्द","en":"Words"},{"hi":"वाक्य","en":"Sentences"}],"answer":0},
+    {"id":134,"section":"Child Development","hi":"एक विद्यार्थी अधिगम पर उसकी आर्थिक स्थिति का किस प्रकार प्रभाव पड़ता है?","en":"How does the economic status affect the learning of students?","options":[{"hi":"अमीर विद्यार्थी अधिक अधिगम करता है","en":"Rich student learns more"},{"hi":"गरीब विद्यार्थी कम अधिगम करता है","en":"Poor student learns less"},{"hi":"किसी प्रकार का प्रभाव नहीं पड़ता","en":"Not effect of any type"},{"hi":"गरीब विद्यार्थी अधिक अधिगम करता है","en":"Poor student learns more"}],"answer":2},
+    {"id":135,"section":"Child Development","hi":"निम्न में से कौन-सा विकल्प उपलब्धि में व्यक्तिगत भिन्नता का प्रतीक नहीं है?","en":"Which is NOT a symbol of individual variation in achievement?","options":[{"hi":"पूर्व अनुभवों में विभिन्नता","en":"Variation in prior experiences"},{"hi":"लिंग भिन्नता","en":"Gender variation"},{"hi":"रुचियों में विभिन्नता","en":"Variation in interest"},{"hi":"पूर्व निर्देशन में विभिन्नता","en":"Variation in prior guidance"}],"answer":1},
+    {"id":136,"section":"Child Development","hi":"सीखने की प्रक्रिया में विद्यार्थी द्वारा की गई त्रुटियों के संबंध में कौन-सा कथन सर्वोत्तम है?","en":"Which is the most appropriate statement about mistakes by students during learning process?","options":[{"hi":"विद्यार्थियों को कभी त्रुटियाँ नहीं करनी चाहिए","en":"Student should never do mistakes"},{"hi":"त्रुटियाँ अधिगम प्रक्रिया का भाग हैं","en":"Mistakes are part of learning process"},{"hi":"विद्यार्थियों की लापरवाही के कारण त्रुटियाँ होती हैं","en":"Mistakes are due to the careless of students"},{"hi":"कभी-कभी विद्यार्थी त्रुटियाँ कर सकता है","en":"Sometime students can make mistakes"}],"answer":1},
+    {"id":137,"section":"Child Development","hi":"एक बालक के व्यक्तित्व के मापन की सर्वाधिक व्यक्तिपरक विधि है:","en":"Most subjective method for measuring personality of a child is:","options":[{"hi":"प्रक्षेपी विधि","en":"Projective method"},{"hi":"साक्षात्कार विधि","en":"Interview method"},{"hi":"प्रश्नावली विधि","en":"Questionnaire method"},{"hi":"समाजमिति विधि","en":"Sociometry method"}],"answer":2},
+    {"id":138,"section":"Child Development","hi":"निम्न में से व्यक्तित्व मापन की प्रक्षेपी विधि है?","en":"Which of the following is projective technique of personality measurement?","options":[{"hi":"निर्धारण मापनी","en":"Rating scale"},{"hi":"अवलोकन","en":"Observation"},{"hi":"साक्षात्कार","en":"Interview"},{"hi":"प्रासंगिक अन्तर्बोध परीक्षण","en":"Thematic Apperception Test"}],"answer":3},
+    {"id":139,"section":"Child Development","hi":"निम्नलिखित में से कौन-सा कारक पर्यावरण या परिवेश से संबंधित नहीं है?","en":"Which factor does NOT belong to the environment or surroundings?","options":[{"hi":"साथियों के समूह","en":"Peer-group"},{"hi":"समुदाय","en":"Community"},{"hi":"परिवार","en":"Family"},{"hi":"भावनाएँ","en":"Emotions"}],"answer":3},
+    {"id":140,"section":"Child Development","hi":"बच्चों के सीखने के तंत्र को समझना महत्वपूर्ण है जिससे कि:","en":"It is important to understand the mechanism of children's learning to:","options":[{"hi":"उन्हें नई संकल्पनाएँ सिखाएं","en":"Teach them new concepts"},{"hi":"उन्हें आज्ञाकारी बनाएं","en":"Make them obedient"},{"hi":"उन्हें दोस्त बनाने में मदद करें","en":"Help them make friends"},{"hi":"स्कूल के शिष्टाचार सीखें","en":"Learn school manners"}],"answer":0},
+    {"id":141,"section":"Child Development","hi":"यह ________ के माध्यम से है कि मनुष्य की क्षमता और उनके वातावरण में कार्य करने की क्षमता में वृद्धि होती है।","en":"It is through ________ that human competence and ability to function get enhanced.","options":[{"hi":"बैठने","en":"Sitting"},{"hi":"सोने","en":"Sleeping"},{"hi":"अधिगम (Learning)","en":"Learning"},{"hi":"चलने","en":"Walking"}],"answer":2},
+    {"id":142,"section":"Child Development","hi":"शिक्षकों के लिए यह जानना महत्वपूर्ण है कि बच्चे कैसे i) सोचते हैं ii) सीखते हैं","en":"It is important for teachers to explore how children i) Think ii) Learn","options":[{"hi":"i) केवल","en":"i) only"},{"hi":"ii) केवल","en":"ii) only"},{"hi":"i) और ii) दोनों","en":"Both i) and ii)"},{"hi":"न तो i) न ही ii)","en":"Neither i) nor ii)"}],"answer":2},
+    {"id":143,"section":"Child Development","hi":"अधिगम को आंशिक रूप से संज्ञानात्मक प्रक्रिया और आंशिक रूप से _____ माना गया है।","en":"Learning has been considered partly a cognitive process and partly an _____ one.","options":[{"hi":"सामाजिक","en":"Social"},{"hi":"असंज्ञानात्मक","en":"Incognitive"},{"hi":"निष्क्रिय","en":"Passive"},{"hi":"विसंगति","en":"Illogical"}],"answer":0},
+    {"id":144,"section":"Child Development","hi":"अधिगम एक संज्ञानात्मक प्रक्रिया के रूप में योग्य है क्योंकि इसमें निम्नलिखित शामिल हैं:","en":"Learning qualifies as a cognitive process because it involves:","options":[{"hi":"केवल विचार (रीजनिंग)","en":"Reasoning only"},{"hi":"केवल धारणा (परसेप्शन)","en":"Perception only"},{"hi":"केवल विश्लेषण (एनालिसिस)","en":"Analysis only"},{"hi":"विचार, धारणा और विश्लेषण","en":"Reasoning, perception and analysis"}],"answer":3},
+    {"id":145,"section":"Child Development","hi":"निम्नलिखित में से कौन-सा कथन सही नहीं है?","en":"Which of the following statements is NOT correct?","options":[{"hi":"अध्यापन और अधिगम के अलग-अलग अर्थ होते हैं","en":"Teaching and learning have different meaning"},{"hi":"अध्यापन और अधिगम एक दूसरे से संबंधित हैं","en":"Teaching and learning are related to each other"},{"hi":"'अध्यापन-अधिगम' का कोई अलग अर्थ नहीं है","en":"'Teaching-learning' has no separate meaning"},{"hi":"अध्यापन-अधिगम की प्रक्रिया अध्यापन और अधिगम दोनों से भिन्न होती है","en":"Teaching-learning process is different from both teaching and learning"}],"answer":2},
+    {"id":146,"section":"Child Development","hi":"अध्यापन (टीचिंग) का संबंध __________ से नहीं है:","en":"Teaching is NOT associated with:","options":[{"hi":"अध्ययन (Reading)","en":"Reading"},{"hi":"लेखन (Writing)","en":"Writing"},{"hi":"अंकगणित (Arithmetic)","en":"Arithmetic"},{"hi":"जिम्मेदारियों (Responsibilities)","en":"Responsibilities"}],"answer":3},
+    {"id":147,"section":"Child Development","hi":"अधिकार और दायित्व इसमें शामिल हैं i) शिक्षा (Education) ii) अध्यापन (Teaching)","en":"Rights and responsibilities are included in i) Education ii) Teaching","options":[{"hi":"i) केवल","en":"i) only"},{"hi":"ii) केवल","en":"ii) only"},{"hi":"i) और ii) दोनों","en":"Both i) and ii)"},{"hi":"न तो i) न ही ii)","en":"Neither i) nor ii)"}],"answer":0},
+    {"id":148,"section":"Child Development","hi":"अधिगम और सोचना __________ प्रक्रियाएं हैं। i) आपेक्षिक (Relative) ii) प्रासंगिक (Contextual)","en":"Learning and thinking are __________ processes. i) Relative ii) Contextual","options":[{"hi":"i) केवल","en":"i) only"},{"hi":"ii) केवल","en":"ii) only"},{"hi":"i) और ii) दोनों","en":"Both i) and ii)"},{"hi":"न तो i) न ही ii)","en":"Neither i) nor ii)"}],"answer":2},
+    {"id":149,"section":"Child Development","hi":"निम्नलिखित में से कौन सीखने की प्रक्रिया में सक्रिय भागीदार है? i) शिक्षक ii) शिक्षार्थी","en":"Who among the following is/are the active participants in the learning process? i) Teacher ii) Learner","options":[{"hi":"i) केवल","en":"i) only"},{"hi":"ii) केवल","en":"ii) only"},{"hi":"i) और ii) दोनों","en":"Both i) and ii)"},{"hi":"न तो i) न ही ii)","en":"Neither i) nor ii)"}],"answer":2},
+    {"id":150,"section":"Child Development","hi":"प्रभावी शिक्षण (Effective teaching) है i) सहयोगी (Cooperative) ii) विचारोत्तेजक (Suggestive)","en":"Effective teaching is i) Cooperative ii) Suggestive","options":[{"hi":"i) केवल","en":"i) only"},{"hi":"ii) केवल","en":"ii) only"},{"hi":"i) और ii) दोनों","en":"Both i) and ii)"},{"hi":"न तो i) न ही ii)","en":"Neither i) nor ii)"}],"answer":2},
   ]
 }
