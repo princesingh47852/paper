@@ -1,0 +1,422 @@
+{
+  "id": "varg3_2022",
+  "title": "MP TET Varg 3 — 2022",
+  "subtitle": "Official Paper",
+  "year": 2022,
+  "varg": 3,
+  "totalMarks": 150,
+  "durationMinutes": 180,
+  "sections": [
+    { "name": "Hindi Bhasha 01", "color": "#f472b6" },
+    { "name": "Mathematics",     "color": "#60a5fa" },
+    { "name": "Environmental Study", "color": "#34d399" },
+    { "name": "English Language 02", "color": "#fbbf24" },
+    { "name": "Child Development",   "color": "#a78bfa" }
+  ],
+  "passages": {
+    "GADY1": "निर्देश: नीचे दिए गए गद्यांश को पढ़कर पूछे गए प्रश्नों के सबसे उचित उत्तर वाले विकल्प का चयन कीजिए-\nआज हम इस असमंजस में पड़े हैं और यह निश्चय नहीं कर पाए हैं कि हम किस ओर चलेंगे और हमारा ध्येय क्या है? स्वभावतः ऐसी अवस्था में हमारे पैर लड़खड़ाते हैं। हमारे विचार में भारत के लिए और सारे संसार के लिए सुख और शान्ति का एक ही रास्ता है और वह है अहिंसा और आत्मवाद का। अपनी दुबलता के कारण हम उसे ग्रहण न कर सके, पर उसके सिद्धान्तों को तो हम स्वीकार कर ही लेना चाहिए और उसके वर्तन का इन्तेजार करना चाहिए। यदि हम सिद्धांत ही न मानेंगे तो उसके वर्तन की आशा कैसे की जा सकती है? जहाँ तक मैंने महात्मा गांधीजी के सिद्धान्त को समझा है, वह इसी आत्मवाद और अहिंसा के, जिसे वे सत्य भी कहा करते थे, मानने वाले और वर्तक थे।",
+    "KAVYA1": "निर्देश: काव्यांश को पढ़कर पूछे गए प्रश्नों के सबसे उचित उत्तर वाले विकल्प का चयन कीजिए-\nजब भी\nभूख से लड़ने\nकोई खड़ा हो जाता है\nसुंदर दीखने लगता है\nझटपता बाज,\nफन उठाए सांप\nदो पैरों पर खड़ी\nकांटों से नहीं पत्तियां खाती बकरी,\nदबे पांव झाड़ियों में चलता चीता,\nडाल पर उलटा लटक\nफल कुतरता तोता\nया इन सब की जगह\nआदमी होता।\nजब भी\nभूख से लड़ने\nकोई खड़ा हो जाता है\nसुंदर दीखने लगता है।",
+    "PETS": "Direction: Read the given poem and answer the question given below accordingly.\nI have a dog\nBut I don't have a hog\nMy dog's name is Missy\nWhen she's mad\nShe doesn't go hissy\nI have a cat\nBut not a bat\nMy cat's name is jinx\nBut he's not a lynx\nI had a fish\nWhen he died\nI didn't eat him on a dish\nMy fish's name was Freddy\nHe had two friends named\nEddy and Teddy\nI tried to make this rhyme\nWell, I did this time",
+    "SPACEX": "Read the passage given below and then answer the questions given below the passage.\nSpaceX's newest fleet of satellites is tumbling out of orbit after being struck by a solar storm. Up to 40 of the 49 small satellites launched last week have either re-entered the atmosphere and burned up, or are on the verge of doing so, the company said in an online update Tuesday night. SpaceX said a geomagnetic storm last Friday made the atmosphere denser, which increased the drag on the Starlink satellites, effectively dooming them. Ground controllers tried to save the compact, flat-panel satellites by putting them into a type of hibernation and flying them in a way to minimize drag. But the atmospheric pull was too great, and the satellites failed to awaken and climb to a higher, more stable orbit.\n\nThere is no danger from these newly falling satellites, either in orbit or on the ground, according to the company. Each satellite weighs less than 575 pounds (260 kilograms). SpaceX described the lost satellites as a 'unique situation.' Such geomagnetic storms are caused by intense solar activity like flares, which can send streams of plasma from the sun's corona hurtling out into space and toward Earth. Since launching the first Starlink satellites in 2019, Elon Musk envisions a constellation of thousands more satellites to increase internet service. Astronomers are distressed that these mega constellations will ruin night-time observations from Earth. The International Astronomical Union is forming a new centre for the protection of dark skies."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Hindi Bhasha 01",
+      "hi": "भाषा की कक्षा में समाचार-पत्रिकाओं का उपयोग यह सुनिश्चित करता है कि_________",
+      "en": "Use of newspapers in language class ensures that:",
+      "options": [
+        { "hi": "शिक्षण-सामग्री का उपयोग हो रहा है।", "en": "Teaching material is being used." },
+        { "hi": "बच्चों की भाषा पर समाचार-पत्रिकाओं का प्रभाव पड़े।", "en": "Newspapers influence children's language." },
+        { "hi": "बच्चों को मुख्य शीर्षक याद हैं।", "en": "Children remember main headlines." },
+        { "hi": "बच्चे प्रामाणिक लेख, समाचार आदि पर अपनी प्रतिक्रिया देने की क्षमता रखते हों।", "en": "Children can respond to authentic articles and news." }
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "section": "Hindi Bhasha 01",
+      "hi": "प्राइमरी कक्षाओं में पठन-शिक्षण का उद्देश्य इनमें से क्या नहीं है?",
+      "en": "Which is NOT an objective of reading-teaching in primary classes?",
+      "options": [
+        { "hi": "विद्यार्थी पाठ्य-पुस्तक अथवा उसके जोड़ की पाठ्य-सामग्री को शुद्ध उच्चारण के साथ पढ़ सकें", "en": "Students can read textbook with correct pronunciation" },
+        { "hi": "विद्यार्थी उपयुक्त गति से पढ़ सकें", "en": "Students can read at appropriate speed" },
+        { "hi": "प्रश्नों के उत्तर याद कर सकें", "en": "Can memorize answers to questions" },
+        { "hi": "विद्यार्थी अपने स्तर की पुस्तकों के अध्ययन से मनोरंजन प्राप्त कर सकें।", "en": "Students can enjoy reading books at their level." }
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "section": "Hindi Bhasha 01",
+      "hi": "निम्न में से संज्ञानात्मक संप्राप्ति का न्यूनतम स्तर क्या है?",
+      "en": "Which is the lowest level of cognitive domain?",
+      "options": [
+        { "hi": "अनुयोग", "en": "Application" },
+        { "hi": "बोध", "en": "Comprehension" },
+        { "hi": "विश्लेषण", "en": "Analysis" },
+        { "hi": "ज्ञान", "en": "Knowledge" }
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "section": "Hindi Bhasha 01",
+      "hi": "बहु-सांस्कृतिक पृष्ठभूमि वाली कक्षा में भाषा शिक्षक को क्या करना चाहिए?",
+      "en": "In a multicultural classroom, what should a language teacher do?",
+      "options": [
+        { "hi": "मौखिक कौशलों पर बल देना चाहिए", "en": "Emphasize oral skills" },
+        { "hi": "अभिव्यक्ति कौशल पर बल देना चाहिए", "en": "Emphasize expression skills" },
+        { "hi": "परस्पर बातचीत करने का अधिक से अधिक अवसर देना चाहिए", "en": "Give maximum opportunities for conversation" },
+        { "hi": "बच्चों को मानक भाषा-प्रयोग के लिए ही कहना चाहिए", "en": "Ask children to use only standard language" }
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "section": "Hindi Bhasha 01",
+      "hi": "भाषा-शिक्षण के लिए आवश्यक है कि",
+      "en": "For language teaching, it is essential that:",
+      "options": [
+        { "hi": "शिक्षक बहुत सारी भाषाएं जानता हो", "en": "Teacher knows many languages" },
+        { "hi": "भाषा का व्याकरण अच्छी तरह याद हो", "en": "Grammar is well memorized" },
+        { "hi": "अलग-अलग संदर्भ में भाषा प्रयोग के अवसर", "en": "Opportunities for language use in different contexts" },
+        { "hi": "शब्दार्थ के लिए शब्दकोश का प्रयोग", "en": "Use of dictionary for word meanings" }
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "section": "Hindi Bhasha 01",
+      "hi": "वाइगोत्स्की के अनुसार, सीखने को _____________ से पृथक नहीं किया जा सकता।",
+      "en": "According to Vygotsky, learning cannot be separated from:",
+      "options": [
+        { "hi": "उसके सामाजिक संदर्भ से", "en": "Its social context" },
+        { "hi": "पुनर्बलन से", "en": "Reinforcement" },
+        { "hi": "व्यवहार में मापने योग्य परिवर्तन से", "en": "Measurable change in behavior" },
+        { "hi": "अवबोधन क्रियाओं से", "en": "Perceptual processes" }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "section": "Hindi Bhasha 01",
+      "passage": "GADY1",
+      "hi": "निम्नलिखित में से उपर्युक्त गद्यांश के लिए उचित शीर्षक का चयन कीजिए-",
+      "en": "Choose the appropriate title for the above passage:",
+      "options": [
+        { "hi": "श्रेय एवं प्रेय", "en": "Shreya and Preya" },
+        { "hi": "स्वभावतः असमंजस", "en": "Natural confusion" },
+        { "hi": "भौतिकवाद", "en": "Materialism" },
+        { "hi": "आत्मवाद", "en": "Spiritualism" }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "section": "Hindi Bhasha 01",
+      "passage": "GADY1",
+      "hi": "उपर्युक्त गद्यांश के अनुसार हमारे पैर लड़खड़ाते हैं, क्योंकि हम _________ हैं।",
+      "en": "According to the passage, our feet stumble because we are:",
+      "options": [
+        { "hi": "लक्ष्यहीन", "en": "Aimless" },
+        { "hi": "दिशाहीन", "en": "Directionless" },
+        { "hi": "अहिंसावादी", "en": "Non-violent" },
+        { "hi": "लक्ष्यहीन और दिशाहीन", "en": "Aimless and directionless" }
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "section": "Hindi Bhasha 01",
+      "passage": "KAVYA1",
+      "hi": "उपर्युक्त कविता से क्या प्रेरणा मिलती है?",
+      "en": "What inspiration does the above poem give?",
+      "options": [
+        { "hi": "भूख शांत करने के लिए संघर्ष करने की प्रेरणा", "en": "Inspiration to struggle against hunger" },
+        { "hi": "भूख शांत करने के लिए चोरी करने की प्रेरणा", "en": "Inspiration to steal to satisfy hunger" },
+        { "hi": "मनुष्य को कभी भी भूखा नहीं रहना चाहिए, चाहे कुछ भी करना पड़े।", "en": "Man should never stay hungry, whatever it takes." },
+        { "hi": "अधिक समय तक भूख बर्दाश्त करना।", "en": "Tolerating hunger for a long time." }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "section": "Hindi Bhasha 01",
+      "passage": "KAVYA1",
+      "hi": "उपर्युक्त पद्यांश का उचित शीर्षक बताइए-",
+      "en": "Give the appropriate title of the above poem:",
+      "options": [
+        { "hi": "सुन्दरता", "en": "Beauty" },
+        { "hi": "भूख और संघर्ष", "en": "Hunger and Struggle" },
+        { "hi": "नदियों का सौन्दर्य", "en": "Beauty of rivers" },
+        { "hi": "देश की वीरता", "en": "Bravery of the country" }
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "section": "Mathematics",
+      "hi": "एक तम्बू का आधार 150 सेमी परिधि का एक नियमित षट्भुज है। आधार की प्रत्येक भुजा की लंबाई कितनी है?",
+      "en": "Base of a tent is a regular hexagon of perimeter 150 cm. What is the length of each side?",
+      "options": [
+        { "hi": "20 सेमी", "en": "20 cm" },
+        { "hi": "15 सेमी", "en": "15 cm" },
+        { "hi": "25 सेमी", "en": "25 cm" },
+        { "hi": "17 सेमी", "en": "17 cm" }
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "section": "Mathematics",
+      "hi": "एक नियमित घनाभ में कितने शीर्ष होते हैं?",
+      "en": "How many vertices does a regular cuboid have?",
+      "options": [
+        { "hi": "6", "en": "6" },
+        { "hi": "12", "en": "12" },
+        { "hi": "8", "en": "8" },
+        { "hi": "4", "en": "4" }
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "section": "Mathematics",
+      "hi": "एनसीएफ 2005 के अनुसार, प्राथमिक स्तर पर गणित शिक्षण का संकीर्ण उद्देश्य क्या है?",
+      "en": "As per NCF 2005, which caters to the narrow aim of teaching mathematics at primary level?",
+      "options": [
+        { "hi": "संख्याओं और संक्रियाओं, मात्राओं का मापन", "en": "Numbers, operations, measurement" },
+        { "hi": "बच्चे की चिंतन प्रक्रिया का गणितीयकरण", "en": "Mathematise child's thought process" },
+        { "hi": "तार्किक चिंतन का विकास", "en": "Development of logical thinking" },
+        { "hi": "समस्या समाधान कौशल", "en": "Problem solving skills" }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "section": "Mathematics",
+      "hi": "हेयुरिस्टिक ग्रीक शब्द से उत्पन्न हुआ है जिसका अर्थ है:",
+      "en": "Heuristic is derived from Greek word which means:",
+      "options": [
+        { "hi": "जानना", "en": "To know" },
+        { "hi": "योजना बनाना", "en": "To plan" },
+        { "hi": "खोज करना", "en": "To discover" },
+        { "hi": "सोचना", "en": "To think" }
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "section": "Mathematics",
+      "hi": "\"सभी गणितीय अवधारणाओं को ठोस वस्तुओं के माध्यम से नहीं सीखा जा सकता\" — यह गणित की किस विशेषता को दर्शाता है?",
+      "en": "'All mathematical concepts cannot be learned through concrete objects' — this points to which characteristic of mathematics?",
+      "options": [
+        { "hi": "सार्वभौमिकता", "en": "Universality" },
+        { "hi": "व्यावहारिक विज्ञान", "en": "Applied science" },
+        { "hi": "अमूर्तता", "en": "Abstractness" },
+        { "hi": "तार्किक विचार", "en": "Logical reasoning" }
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "section": "Environmental Study",
+      "hi": "ठहरे हुए पानी से कौन-सा रोग हो सकता है?",
+      "en": "The disease which can be caused by stagnant water:",
+      "options": [
+        { "hi": "पोलियो", "en": "Polio" },
+        { "hi": "चिकन पॉक्स", "en": "Chicken pox" },
+        { "hi": "निमोनिया", "en": "Pneumonia" },
+        { "hi": "मलेरिया", "en": "Malaria" }
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "section": "Environmental Study",
+      "hi": "ओजोन परत वायुमंडल की किस परत में पाई जाती है?",
+      "en": "Ozone layer is found in which layer of atmosphere?",
+      "options": [
+        { "hi": "समताप मंडल", "en": "Stratosphere" },
+        { "hi": "वायुमंडल", "en": "Atmosphere" },
+        { "hi": "मेसोस्फीयर", "en": "Mesosphere" },
+        { "hi": "बहिर्मंडल", "en": "Exosphere" }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 18,
+      "section": "Environmental Study",
+      "hi": "वन, घास के मैदान और मरुस्थल, उदाहरण हैं:",
+      "en": "Forests, grasslands and deserts are examples of:",
+      "options": [
+        { "hi": "बायोम", "en": "Biome" },
+        { "hi": "मानव निर्मित पारिस्थितिकी तंत्र", "en": "Manmade ecosystem" },
+        { "hi": "जैव-भौगोलिक क्षेत्र", "en": "Biogeographical regions" },
+        { "hi": "कृत्रिम पारिस्थितिकी तंत्र", "en": "Artificial Ecosystems" }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 19,
+      "section": "Environmental Study",
+      "hi": "PSLV को इसरो का 'वर्कहॉर्स' क्यों कहा जाता है?",
+      "en": "Why is PSLV known as the 'Workhorse of ISRO'?",
+      "options": [
+        { "hi": "क्योंकि यह सबसे बड़ा रॉकेट है", "en": "Because it is the largest rocket" },
+        { "hi": "क्योंकि यह सबसे अधिक उपयोग किया जाने वाला और विश्वसनीय लॉन्च वाहन है", "en": "Because it is the most used and reliable launch vehicle" },
+        { "hi": "क्योंकि यह सबसे तेज़ रॉकेट है", "en": "Because it is the fastest rocket" },
+        { "hi": "क्योंकि यह सबसे सस्ता है", "en": "Because it is the cheapest" }
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "section": "Environmental Study",
+      "hi": "इसरो के PSLV में कितने चरण हैं?",
+      "en": "How many stages are there in ISRO's PSLV?",
+      "options": [
+        { "hi": "3", "en": "3" },
+        { "hi": "4", "en": "4" },
+        { "hi": "5", "en": "5" },
+        { "hi": "2", "en": "2" }
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "section": "English Language 02",
+      "passage": "PETS",
+      "hi": "Q: Which of the following pairs contains rhyming?",
+      "en": "Which of the following pairs contains rhyming?",
+      "options": [
+        { "hi": "cat-bat", "en": "cat-bat" },
+        { "hi": "hog-mad", "en": "hog-mad" },
+        { "hi": "dog-cat", "en": "dog-cat" },
+        { "hi": "fish-lynx", "en": "fish-lynx" }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 22,
+      "section": "English Language 02",
+      "passage": "PETS",
+      "hi": "Q: What happened to the speaker's fish?",
+      "en": "What happened to the speaker's fish?",
+      "options": [
+        { "hi": "the speaker's dog ate it", "en": "the speaker's dog ate it" },
+        { "hi": "the speaker herself ate it", "en": "the speaker herself ate it" },
+        { "hi": "the speaker's cat ate it", "en": "the speaker's cat ate it" },
+        { "hi": "the fish died but the speaker didn't eat it", "en": "the fish died but the speaker didn't eat it" }
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "section": "English Language 02",
+      "passage": "SPACEX",
+      "hi": "Q: How did SpaceX try to save the satellites?",
+      "en": "How did SpaceX try to save the satellites from destruction?",
+      "options": [
+        { "hi": "They switched off the power supply", "en": "They switched off the power supply" },
+        { "hi": "They took help from NASA", "en": "They took help from NASA" },
+        { "hi": "They used laser rays to deflect the storm", "en": "They used laser rays to deflect the storm" },
+        { "hi": "They tried to move the satellites into higher orbit", "en": "They tried to move the satellites into higher orbit" }
+      ],
+      "answer": 3
+    },
+    {
+      "id": 24,
+      "section": "English Language 02",
+      "passage": "SPACEX",
+      "hi": "Q: What is the cause of the destruction of satellites?",
+      "en": "What is the cause of the destruction of satellites?",
+      "options": [
+        { "hi": "Typhoon", "en": "Typhoon" },
+        { "hi": "Cyclone", "en": "Cyclone" },
+        { "hi": "Tsunami", "en": "Tsunami" },
+        { "hi": "Solar storm", "en": "Solar storm" }
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "section": "English Language 02",
+      "hi": "Story telling as a strategy in language teaching is aimed at:",
+      "en": "Story telling as a strategy in language teaching is aimed at:",
+      "options": [
+        { "hi": "engaging learners with language", "en": "engaging learners with language" },
+        { "hi": "learning to retell the story", "en": "learning to retell the story" },
+        { "hi": "testing the memory of learners", "en": "testing the memory of learners" },
+        { "hi": "learning the morals", "en": "learning the morals" }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 26,
+      "section": "Child Development",
+      "hi": "बालक के विकास में कौन महत्वपूर्ण भूमिका निभाते हैं?",
+      "en": "Who plays an important role in development of child?",
+      "options": [
+        { "hi": "परिवार के सदस्य", "en": "Family members" },
+        { "hi": "रिश्तेदार", "en": "Relatives" },
+        { "hi": "माता-पिता", "en": "Mother-Father" },
+        { "hi": "मित्र", "en": "Friends" }
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "section": "Child Development",
+      "hi": "विकास का अर्थ है:",
+      "en": "Meaning of development is:",
+      "options": [
+        { "hi": "व्यवहार में परिवर्तन", "en": "Changes in behavior" },
+        { "hi": "कल्पना में परिवर्तन", "en": "Changes in imagination" },
+        { "hi": "आकार में परिवर्तन", "en": "Changes in size" },
+        { "hi": "भावना में परिवर्तन", "en": "Changes in emotions" }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 28,
+      "section": "Child Development",
+      "hi": "बहु-बुद्धि का सिद्धान्त किसने दिया?",
+      "en": "Who gave the concept of multiple intelligence?",
+      "options": [
+        { "hi": "गार्डनर", "en": "Gardner" },
+        { "hi": "पियाजे", "en": "Piaget" },
+        { "hi": "गोलमैन", "en": "Goleman" },
+        { "hi": "जॉन मेयर", "en": "John Mayor" }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 29,
+      "section": "Child Development",
+      "hi": "थर्स्टन ने कितनी प्राथमिक मानसिक योग्यताओं का सुझाव दिया था?",
+      "en": "How many primary mental abilities did Thurstone suggest?",
+      "options": [
+        { "hi": "5", "en": "5" },
+        { "hi": "6", "en": "6" },
+        { "hi": "7", "en": "7" },
+        { "hi": "8", "en": "8" }
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "section": "Child Development",
+      "hi": "एक बच्चे का सीखना ___________ से शुरू होता है:",
+      "en": "Learning of a child starts from:",
+      "options": [
+        { "hi": "विद्यालय", "en": "The school" },
+        { "hi": "समाज", "en": "The society" },
+        { "hi": "परिवार", "en": "The family" },
+        { "hi": "पड़ोस", "en": "The neighbourhood" }
+      ],
+      "answer": 2
+    }
+  ]
+}
