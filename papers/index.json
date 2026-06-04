@@ -9,5 +9,50 @@
     "totalMarks": 150,
     "durationMinutes": 180,
     "tags": ["Varg 3", "2022", "Official"]
-  }
+    
+  },
+{
+  "id": "varg3_2023",
+    "title": "MP TET Varg 3 — 2023",
+    "subtitle": "Official Paper",
+    "year": 2022,
+    "varg": 3,
+    "totalQuestions": 150,
+    "totalMarks": 150,
+    "durationMinutes": 180,
+    "tags": [
+        "Varg 3",
+        "2023",
+        "Official"
+    ]},
+    {
+  "id": "varg3_2024",
+    "title": "MP TET Varg 3 — 2024",
+    "subtitle": "Official Paper",
+    "year": 2022,
+    "varg": 3,
+    "totalQuestions": 150,
+    "totalMarks": 150,
+    "durationMinutes": 180,
+    "tags": [
+        "Varg 3",
+        "2024",
+        "Official"
+    ]},
+    {
+  "id": "varg3_2025",
+    "title": "MP TET Varg 3 — 2025",
+    "subtitle": "Official Paper",
+    "year": 2022,
+    "varg": 3,
+    "totalQuestions": 150,
+    "totalMarks": 150,
+    "durationMinutes": 180,
+    "tags": [
+        "Varg 3",
+        "2025",
+        "Official"
+    ]}
+    
+    
 ]
